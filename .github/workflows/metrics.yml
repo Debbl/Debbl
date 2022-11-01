@@ -22,4 +22,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_leetcode: yes
+          plugin_leetcode_user: debbl
           plugin_leetcode_sections: solved, skills, recent
