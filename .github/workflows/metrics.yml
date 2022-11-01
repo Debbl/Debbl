@@ -10,8 +10,6 @@ jobs:
       - name: Default metrics
         uses: lowlighter/metrics@latest
         with:
-          dryrun: true
-          output_action: none
           filename: metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
