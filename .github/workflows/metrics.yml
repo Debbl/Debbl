@@ -8,8 +8,16 @@ jobs:
     steps:
 
       - name: Default metrics
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: metrics_renders/metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
+          
+      - name: LeetCode
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics_renders/metrics.plugin.leetcode.svg
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
