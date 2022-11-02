@@ -15,51 +15,51 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           
-      - name: Icons
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics_renders/metrics.plugin.topics.icons.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header
-          base_indepth: yes
-          config_order: base.header, isocalendar, languages, notable, discussions, topics
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 2
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-          plugin_notable: yes
-          plugin_discussions: yes
+#       - name: Icons
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: metrics_renders/metrics.plugin.topics.icons.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: header
+#           base_indepth: yes
+#           config_order: base.header, isocalendar, languages, notable, discussions, topics
+#           plugin_isocalendar: yes
+#           plugin_languages: yes
+#           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
+#           plugin_languages_details: lines, bytes-size, percentage
+#           plugin_languages_sections: most-used, recently-used
+#           plugin_languages_indepth: yes
+#           plugin_languages_limit: 2
+#           plugin_topics: yes
+#           plugin_topics_limit: 0
+#           plugin_topics_mode: icons
+#           plugin_notable: yes
+#           plugin_discussions: yes
 
-      - name: Labels
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics_renders/metrics.plugin.topics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
+#       - name: Labels
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: metrics_renders/metrics.plugin.topics.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: ""
+#           plugin_topics: yes
+#           plugin_topics_limit: 0
           
-      - name: Full-year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics_renders/metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+#       - name: Full-year calendar
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: metrics_renders/metrics.plugin.isocalendar.fullyear.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: ""
+#           plugin_isocalendar: yes
+#           plugin_isocalendar_duration: full-year
           
-      - name: LeetCode
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics_renders/metrics.plugin.leetcode.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_leetcode: yes
-          plugin_leetcode_user: debbl
-          plugin_leetcode_sections: solved, skills, recent
+#       - name: LeetCode
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: metrics_renders/metrics.plugin.leetcode.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: ""
+#           plugin_leetcode: yes
+#           plugin_leetcode_user: debbl
+#           plugin_leetcode_sections: solved, skills, recent
