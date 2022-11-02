@@ -15,12 +15,22 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           
-      - name: LeetCode
+      - name: Icons
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics_renders/metrics.plugin.leetcode.svg
+          filename: metrics_renders/metrics.plugin.topics.icons.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_leetcode: yes
-          plugin_leetcode_user: debbl
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_topics: yes
+          plugin_topics_limit: 20
+          plugin_topics_mode: icons
+          
+#       - name: LeetCode
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: metrics_renders/metrics.plugin.leetcode.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: ""
+#           plugin_leetcode: yes
+#           plugin_leetcode_user: debbl
+#           plugin_leetcode_sections: solved, skills, recent
