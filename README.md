@@ -12,9 +12,9 @@
   <img align="right" src="https://count.getloli.com/get/@Debbl?theme=gelbooru">
 </div>
 
-| <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=debbl&show_icons=true&include_all_commits=true&theme=default&locale=cn&border_radius=20" alt="Debbl's github stats" /></a> | <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbl&layout=compact&theme=buefy&locale=cn&border_radius=20&langs_count=6&hide=jupyter%20notebook" /></a> |
+| <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=debbl&show_icons=true&include_all_commits=true&theme=default&locale=cn" alt="Debbl's github stats" /></a> | <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbl&layout=compact&theme=buefy&locale=cn&langs_count=8&hide=jupyter%20notebook" /></a> |
 | :------------------------------------------------------------: | :------------------------------------------------------------: |
-| <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=debbl&show_icons=true&include_all_commits=true&theme=default&border_radius=20" alt="Debbl's github stats" /></a> | <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbl&layout=compact&theme=buefy&border_radius=20&langs_count=6&hide=jupyter%20notebook" /></a> |
+| <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=debbl&show_icons=true&include_all_commits=true&theme=default" alt="Debbl's github stats" /></a> | <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbl&layout=compact&theme=buefy&langs_count=8&hide=jupyter%20notebook" /></a> |
 |<img width="420" src="./metrics_renders/metrics.base.svg" alt="Github Metrics">|<img width="420" src="./metrics_renders/metrics.plugin.activity.svg" alt="Github Activity">|
 
 
