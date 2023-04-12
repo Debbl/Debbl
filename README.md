@@ -11,11 +11,11 @@
 </p>
 
 
-<p>
-  <img align="right" src="https://moe-counter-nextjs.vercel.app/counter/debbl?theme=gelbooru">
+<p align="left">
+  <img src="https://moe-counter-nextjs.vercel.app/counter/debbl?theme=gelbooru">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="./metrics_renders/metrics.plugin.topics.icons.svg">
 </p>
 
