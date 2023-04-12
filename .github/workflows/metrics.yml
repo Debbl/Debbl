@@ -1,12 +1,11 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 16 * * *"}]
+  schedule: [{ cron: "0 16 * * *" }]
   workflow_dispatch:
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-
       - name: Default metrics
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -14,7 +13,7 @@ jobs:
           filename: metrics_renders/metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
-          
+
       - name: Recent activity
         uses: lowlighter/metrics@latest
         with:
@@ -23,8 +22,6 @@ jobs:
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
-          
-          
 #       - name: Featured star list languages
 #         uses: lowlighter/metrics@latest
 #         with:
@@ -35,7 +32,6 @@ jobs:
 #           plugin_starlists_languages: yes
 #           plugin_starlists_limit_languages: 8
 #           plugin_starlists_limit_repositories: 0
-          
 
 #       - name: Icons
 #         uses: lowlighter/metrics@latest
@@ -66,7 +62,7 @@ jobs:
 #           base: ""
 #           plugin_topics: yes
 #           plugin_topics_limit: 0
-          
+
 #       - name: Full-year calendar
 #         uses: lowlighter/metrics@latest
 #         with:
@@ -75,7 +71,7 @@ jobs:
 #           base: ""
 #           plugin_isocalendar: yes
 #           plugin_isocalendar_duration: full-year
-          
+
 #       - name: LeetCode
 #         uses: lowlighter/metrics@latest
 #         with:
