@@ -15,8 +15,8 @@
   <img align="right" src="https://moe-counter-nextjs.vercel.app/counter/debbl?theme=gelbooru">
 </p>
 
-<p>
-  <img align="center" src="./metrics_renders/metrics.plugin.topics.icons.svg">
+<p align="center">
+  <img src="./metrics_renders/metrics.plugin.topics.icons.svg">
 </p>
 
 <p align="center">
