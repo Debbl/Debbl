@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  <img src="./metrics_renders/metrics.plugin.topics.icons.svg">
+  <img align="center" src="./metrics_renders/metrics.plugin.topics.icons.svg">
 </p>
 
 <p align="center">
