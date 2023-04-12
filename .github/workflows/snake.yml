@@ -2,22 +2,22 @@ name: snake
 on:
   schedule:
     - cron: "0 16 * * *"
-  workflow_dispath:
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-  steps:
-    # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-    - name: generate github-contribution-grid-snake.svg
-      uses: Platane/snk/svg-only@v2
-      with:
-        github_user_name: ${{ github.repository_owner }}
-        outputs: |
-          snake/github-contribution-grid-snake.svg
-          snake/github-contribution-grid-snake-dark.svg?palette=github-dark
+    steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake/github-contribution-grid-snake.svg
+            snake/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-    - name: commit change
-      uses: EndBug/add-and-commit@v9
-      with:
-        message: "generte snake"
+      - name: commit change
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "generte snake"
