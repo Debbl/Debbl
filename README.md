@@ -14,6 +14,14 @@
   <img align="right" src="https://moe-counter-nextjs.vercel.app/counter/debbl?theme=gelbooru">
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./snake/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./snake/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="./snake/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
 | <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=debbl&show_icons=true&include_all_commits=true&theme=default&locale=cn&border_radius=20" alt="Debbl's github stats" /></a> | <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbl&layout=compact&theme=buefy&locale=cn&border_radius=20&langs_count=8&hide=jupyter%20notebook" /></a> |
 | :------------------------------------------------------------: | :------------------------------------------------------------: |
 | <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=debbl&show_icons=true&include_all_commits=true&theme=default&border_radius=20" alt="Debbl's github stats" /></a> | <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbl&layout=compact&theme=buefy&border_radius=20&langs_count=8&hide=jupyter%20notebook" /></a> |
