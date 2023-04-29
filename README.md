@@ -12,7 +12,7 @@
 
 
 <p align="left">
-  <img src="https://moe-counter-nextjs.vercel.app/counter/debbl?theme=gelbooru">
+  <img src="https://counter-aiwan-run.deno.dev/">
 </p>
 
 <p align="left">
