@@ -19,6 +19,8 @@ jobs:
           outputs: |
             snake/github-contribution-grid-snake.svg
             snake/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit change
         uses: EndBug/add-and-commit@v9
