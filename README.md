@@ -8,4 +8,10 @@
     <a href="https://50.aiwan.run/">50</a> .
     <a href="https://space.bilibili.com/174865648">bilibili</a>
   </samp>
+
+  <p align="right">
+    <img src="https://counter-aiwan-run.deno.dev/">
+  </p>
 </p>
+
+
