@@ -15,10 +15,6 @@
   <img src="https://counter-aiwan-run.deno.dev/">
 </p>
 
-<p align="left">
-  <img src="./metrics_renders/metrics.plugin.topics.icons.svg">
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./snake/github-contribution-grid-snake-dark.svg" />
@@ -26,11 +22,5 @@
     <img alt="github-snake" src="./snake/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-| <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats-c2q5.vercel.app/api?username=debbl&show_icons=true&include_all_commits=true&theme=default&locale=cn&border_radius=20" alt="Debbl's github stats" /></a> | <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbl&layout=compact&theme=buefy&locale=cn&border_radius=20&langs_count=8&hide=jupyter%20notebook" /></a> |
-| :------------------------------------------------------------: | :------------------------------------------------------------: |
-| <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=debbl&show_icons=true&include_all_commits=true&theme=default&border_radius=20" alt="Debbl's github stats" /></a> | <a href="https://blog.aiwan.run"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbl&layout=compact&theme=buefy&border_radius=20&langs_count=8&hide=jupyter%20notebook" /></a> |
-|<img width="420" src="./metrics_renders/metrics.base.svg" alt="Github Metrics">|<img width="420" src="./metrics_renders/metrics.plugin.activity.svg" alt="Github Activity">|
-
 
 ![](https://activity-graph.herokuapp.com/graph?username=debbl&theme=redical)
