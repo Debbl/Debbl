@@ -9,18 +9,3 @@
     <a href="https://space.bilibili.com/174865648">bilibili</a>
   </samp>
 </p>
-
-
-<p align="left">
-  <img src="https://counter-aiwan-run.deno.dev/">
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./snake/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./snake/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="./snake/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-![](https://activity-graph.herokuapp.com/graph?username=debbl&theme=redical)
