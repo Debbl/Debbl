@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
   <samp>
     <a href="https://aiwan.run">me</a> .
     <a href="https://blog.aiwan.run">blog</a> .
