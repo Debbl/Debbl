@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="645" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="944" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,443 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 624 commits in
+                                        <span class="repo">Debbl/react</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c7967b1</div>
+                                        <div class="message">Distribute bundles more evenly into CI shards (#26208)
+
+## Summary
+
+Previously, we distributed bundles into shards and then checked if we
+need to actually build that bundle. This can under-utilize shards
+heavily (e.g.
+https://app.circleci.com/pipelines/github/facebook/react/38611/workflows/df9e56e7-d476-49ee-9392-d8b37c81aa66/jobs/630545/parallel-runs/28?filterBy=ALL
+only building a single bundle).
+
+This won't result in an optimal distribution but, if we're lucky, we
+might end up with shard #26 not taking 7mins anymore. The slowest shard
+ultimately decicdes when we can start with testing builds.
+
+## How did you test this change?
+
+- [x] `CIRCLE_NODE_INDEX=28 CIRCLE_NODE_TOTAL=40 yarn build` building
+more than 1 bundle
+- [x] Check timings of `yarn_build` so that we don't up with an
+over-stuffed shard (e.g. a shard having to build all the expensive
+bundles). Casually dropping 60min idle time 🎉:
+- Before:
+https://app.circleci.com/pipelines/github/facebook/react/38683/workflows/a41533d7-811c-439d-9751-214ba06035c5/jobs/632230/timing
+- After:
+https://app.circleci.com/pipelines/github/facebook/react/38686/workflows/8a770df6-5b3e-41ea-b3b5-10abeae703e7/jobs/632247/timing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb1e3d0</div>
+                                        <div class="message">Fail yarn build if any bundle fails to build (#26207)
+
+## Summary
+
+`yarn build` would previously still exit with zero exit code hiding
+build errors such as
+https://app.circleci.com/pipelines/github/facebook/react/38609/workflows/62a73635-3bf3-4264-8c48-a61844a27764/jobs/630503/parallel-runs/11?filterBy=ALL&amp;invite=true#step-105-17.
+These issues are still surfaced due to missing size bot artifacts but
+the overall PR status would still be green which we don't want.
+
+Now we just exit with the same exit has a the process of a single build
+if it's non-zero.
+
+## How did you test this change?
+
+- [x] fails based on the parent of
+62e6c4612ec704cf07c99b318bc8f26d3ec3f588:
+https://app.circleci.com/pipelines/github/facebook/react/38681/workflows/654c68ed-cebc-48d4-a156-bac719772f6f/jobs/632166
+- [x] passes based on `main`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62e6c46</div>
+                                        <div class="message">Move Mutation/Persistence fork inline into the functions (#26206)
+
+We should never use any logic beyond declarations in the module scope,
+including conditions, because in a cycle that can lead to problems.
+
+More importantly, the compiler can't safely reorder statements between
+these points which limits the optimizations we can do.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80cf4a0</div>
+                                        <div class="message">Update Closure Compiler (#26205)
+
+I need it for https://github.com/facebook/react/pull/26187.
+
+We need to specify specifically the output mode `ECMASCRIPT5_STRICT` to
+remove `const` from the Fizz runtime.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cc54b5</div>
+                                        <div class="message">Change commit message for DiffTrain commigs (#26203)
+
+Previously, the commit message looked something like this in Github: 
+&lt;img width="921" alt="Screenshot 2023-02-20 at 13 52 35"
+src="https://user-images.githubusercontent.com/1733610/220126265-d77931e0-18ac-46a0-bf23-d868f8af17a9.png"&gt;
+
+With this change, it will look like:
+
+DiffTrain build for commit db5e6250d4bbb70c5085c58694a2e9c78c3f6371.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a82207</div>
+                                        <div class="message">add test case for semver major comparisons</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b6d061</div>
+                                        <div class="message">Update Rollup and related plugins to their most recent versions (#24916)
+
+Update Rollup and related plugins to their most recent versions +
+resolve any breaking changes/deprecations/etc along the way. I made each
+change piece by piece, so the commit history tells a pretty good story
+of what was changed where/how/why.
+
+fixes https://github.com/facebook/react/issues/24894
+
+For the full deepdive/context, see:
+
+- https://github.com/facebook/react/issues/24894
+
+The inspiration for this came from @jasonwilliams 's PR for attempting
+to add sourcemap output support to React's builds:
+
+- https://github.com/facebook/react/issues/20186
+  - https://github.com/facebook/react/pull/21946
+
+But I figured that it would be useful to minimise the scope of changes
+in that PR, and to modernise the build tooling along the way.
+
+If any of these updates rely on a node version later than `10.x`, then
+the following PR may have to land first, otherwise things might break on
+AppVeyor:
+
+- https://github.com/facebook/react/issues/24891
+  - https://github.com/facebook/react/pull/24892
+
+Co-authored-by: Sebastian Markbage &lt;sebastian@calyptus.eu&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc38a3d</div>
+                                        <div class="message">Update rollup config to use moduleSideEffects (#26199)
+
+## Summary
+
+In rollup v1.19.4, The "treeshake.pureExternalModules" option is
+deprecated. The "treeshake.moduleSideEffects" option should be used
+instead, see
+https://github.com/rollup/rollup/blob/v1.19.4/src/Graph.ts#L130.
+
+## How did you test this change?
+
+ci green</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db5e625</div>
+                                        <div class="message">Rename yarn build-combined to just yarn build (#26192)
+
+It's confusing to new contributors, and me, that you're supposed to use
+`yarn build-combined` for almost everything but not fixtures.
+
+We should use only one build command for everything.
+
+Updated fixtures to use the folder convention of build-combined.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c9d9f52</div>
+                                        <div class="message">Make enableCustomElementPropertySupport a dynamic flag in www build (#26194)
+
+Turns enableCustomElementPropertySupport into a dynamic flag in the www
+build so we can turn it on behind a GK.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a49e2d</div>
+                                        <div class="message">remove flow check in electron app.js (#26184)
+
+When we were upgrading flow in
+https://github.com/facebook/react/commit/6ddcbd4f96cb103de3978617a53c200baf5b546c
+we added `$FlowFixMe` for some parameters in this file. However, this
+file is not compiled at all, and the `:` syntax breaks the code.
+
+This PR removes the flow check in this file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4fcc918</div>
+                                        <div class="message">Test :Add a small test for ReactTestUtils to find rendered component with type in document (#24368)
+
+I tried to write test for the ReactTestUtils to find rendered component
+with type in document
+
+Tests before this PR
+
+![Windows PowerShell 4_13_2022 11_35_24
+PM](https://user-images.githubusercontent.com/72331432/163243620-40eb753c-4136-4793-a628-efcf9e004562.png)
+
+
+Tests after this PR 
+
+![Windows PowerShell 4_13_2022 11_35_30
+PM](https://user-images.githubusercontent.com/72331432/163244704-cd17f0e3-7289-4794-895a-be03753e46de.png)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4210655</div>
+                                        <div class="message">React DevTools 4.27.1 -&gt; 4.27.2 (#26185)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21b4910</div>
+                                        <div class="message">[difftrain] Remove dependency on node-fetch (#26182)
+
+`fetch` is now provided by github-scripts implicitly in
+https://github.com/actions/github-script/releases/tag/v6.4.0, so this
+was causing a duplicate declaration error.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#189f70e</div>
+                                        <div class="message">Create a bunch of custom webpack vs unbundled node bundles (#26172)
+
+We currently have an awkward set up because the server can be used in
+two ways. Either you can have the server code prebundled using Webpack
+(what Next.js does in practice) or you can use an unbundled Node.js
+server (what the reference implementation does).
+
+The `/client` part of RSC is actually also available on the server when
+it's used as a consumer for SSR. This should also be specialized
+depending on if that server is Node or Edge and if it's bundled or
+unbundled.
+
+Currently we still assume Edge will always be bundled since we don't
+have an interceptor for modules there.
+
+I don't think we'll want to support this many combinations of setups for
+every bundler but this might be ok for the reference implementation.
+
+This PR doesn't actually change anything yet. It just updates the
+plumbing and the entry points that are built and exposed. In follow ups
+I'll fork the implementation and add more features.
+
+---------
+
+Co-authored-by: dan &lt;dan.abramov@me.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbf3bc3</div>
+                                        <div class="message">Add `scale` as a unitless property (#25601)
+
+## Summary
+
+CSS has a new property called `scale` (`scale: 2` is a shorthand for
+`transform: scale(2)`).
+
+In vanilla JavaScript, we can do the following:
+
+```js
+document.querySelector('div').scale = 2;
+```
+
+which will make the `&lt;div&gt;` twice as big. So in JavaScript, it is
+possible to pass a plain number.
+However, in React, the following does not work currently:
+
+
+```js
+&lt;div style={{scale: 2}}&gt;
+```
+
+because `scale` is not in the list of unitless properties. This PR adds
+`scale` to the list.
+
+
+## How did you test this change?
+
+I built `react` and `react-dom` from source and copied it into the
+node_modules of my project and verified that now `&lt;div style={{scale:
+2}}&gt;` does indeed work whereas before it did not.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f40170</div>
+                                        <div class="message">Don't recommend deprecated debugger script (#26171)
+
+yarn debug-test is now deprecated in React package.json. It has been
+replaced by yarn test --debug.
+
+
+
+https://user-images.githubusercontent.com/72331432/219268188-8ff5dd42-da2b-434c-83be-72a9d258ee98.mp4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fccf3a9</div>
+                                        <div class="message">Remove redundant test steps (#26161)
+
+&lt;!--
+  Thanks for submitting a pull request!
+We appreciate you spending the time to work on these changes. Please
+provide enough information so that others can review your pull request.
+The three fields below are mandatory.
+
+Before submitting a pull request, please make sure the following is
+done:
+
+1. Fork [the repository](https://github.com/facebook/react) and create
+your branch from `main`.
+  2. Run `yarn` in the repository root.
+3. If you've fixed a bug or added code that should be tested, add tests!
+4. Ensure the test suite passes (`yarn test`). Tip: `yarn test --watch
+TestName` is helpful in development.
+5. Run `yarn test --prod` to test in the production environment. It
+supports the same options as `yarn test`.
+6. If you need a debugger, run `yarn debug-test --watch TestName`, open
+`chrome://inspect`, and press "Inspect".
+7. Format your code with
+[prettier](https://github.com/prettier/prettier) (`yarn prettier`).
+8. Make sure your code lints (`yarn lint`). Tip: `yarn linc` to only
+check changed files.
+  9. Run the [Flow](https://flowtype.org/) type checks (`yarn flow`).
+  10. If you haven't already, complete the CLA.
+
+Learn more about contributing:
+https://reactjs.org/docs/how-to-contribute.html
+--&gt;
+
+## Summary
+
+This TODO mentions an issue with JSDOM that [seems to have been
+resolved](https://github.com/jsdom/jsdom/pull/2996).
+
+&lt;!--
+Explain the **motivation** for making this change. What existing problem
+does the pull request solve?
+--&gt;
+
+## How did you test this change?
+
+- Ensured that the `document.activeElement` is no longer `node` after
+`node.blur` is called.
+- Verified that the tests still pass.
+- Looked for [a merged PR that fixes the
+issue](https://github.com/jsdom/jsdom/pull/2996).
+
+&lt;!--
+Demonstrate the code is solid. Example: The exact commands you ran and
+their output, screenshots / videos if the pull request changes the user
+interface.
+How exactly did you verify that your PR solves the issue you wanted to
+solve?
+  If you leave this empty, your PR will very likely be closed.
+--&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86c8c8d</div>
+                                        <div class="message">test: Don't retry flushActWork if flushUntilNextPaint threw (#26121)
+
+## Summary
+
+Fixes "ReferenceError: You are trying to access a property or method of
+the Jest environment after it has been torn down." in
+`ReactIncrementalErrorHandling-test.internal.js`
+
+Alternatives:
+
+1. Additional `await act(cb)` call where `cb` makes sure we can flush
+until next paint without throwing
+    ```js
+    // Ensure test isn't exited with pending work
+    await act(async () =&gt; {
+      root.render(&lt;App shouldThrow={false} /&gt;);
+    });
+    ```
+1. Use `toFlushAndThrow`
+    ```diff
+    -    let error;
+    -    try {
+    -      await act(async () =&gt; {
+    -        root.render(&lt;App shouldThrow={true} /&gt;);
+    -      });
+    -    } catch (e) {
+    -      error = e;
+    -    }
+    +    root.render(&lt;App shouldThrow={true} /&gt;);
+     
+    -    expect(error.message).toBe('Oops!');
+    +    expect(Scheduler).toFlushAndThrow('Oops!');
+         expect(numberOfThrows &lt; 100).toBe(true);
+    ```
+
+But then it still wouldn't make sense to pass `resolve` and `reject` to
+the next `flushActWork`. Even if the next `flushActWork` would flush
+until next paint without throwing, we couldn't resolve or reject because
+we already did reject.
+ 
+
+## How did you test this change?
+
+- `yarn test --watch
+packages/react-reconciler/src/__tests__/ReactIncrementalErrorHandling-test.internal.js`
+produces no more errors after the test finishes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a4ef27</div>
+                                        <div class="message">Remove unnecessary flowconfig ignore paths (#26159)
+
+## Summary
+
+By removing them, the flowconfig file will be cleaner and easier to
+maintain.
+
+## How did you test this change?
+
+ci green</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Debbl/aiwan.run</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#501946b</div>
+                                        <div class="message">fix: cd route path</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">vercel/serve</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -130,66 +567,6 @@ Co-authored-by: Anthony Fu &lt;anthonyfu117@hotmail.com&gt;</div>
                                         <div class="message">fix: disable `style/object-property-newline` in favor of `antfu/consistent-list-newline`
 
 close https://github.com/antfu/eslint-plugin-antfu/issues/10</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v3.0.0</span>
-                                        in
-                                        <span class="repo">Debbl/eslint-config</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Debbl/eslint-config</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#487edd0</div>
-                                        <div class="message">chore: release v3.0.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16deb59</div>
-                                        <div class="message">feat: minify</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Debbl/eslint-config</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aa992b1</div>
-                                        <div class="message">feat: add tsup.config.ts</div>
                                     </div>
                                 </div>
                             </section>
