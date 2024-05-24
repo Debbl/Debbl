@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="328" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="645" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,216 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 56 commits in
+                                        <span class="repo">Debbl/react</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8592369</div>
+                                        <div class="message">compiler: Improve ValidateNoRefAccessInRender to ignore access in effects
+
+Improves ValidateNoRefAccessInRender (still disabled by default) to properly ignore ref access within effects. This includes allowing ref access within functions that are only transitively called from an effect.
+
+While I was here I also added some extra test fixtures for allowing global mutation in effects.
+
+ghstack-source-id: fb6352a1788b7bdbebb40d5b844b711ef87d6771
+Pull Request resolved: https://github.com/facebook/react/pull/29151</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f74c5cc</div>
+                                        <div class="message">feat(hyperlink): added a hyperlink to Node in README.md file (#28940)
+
+As a fellow beginner to React, I didn't even know React runs on top of
+Node when I started.
+
+So, some beginners might get confused about what is Node and how to find
+details about it or how to download it.
+
+So, I thought to add a hyperlink to Node replacing the word Node in the
+README.md file. I think this might be a valuable contribution.
+
+- Januda</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ccb06b0</div>
+                                        <div class="message">Add hyperlink for Good First Issues header (#29103)
+
+## Summary
+
+The "Good First Issues" header in the README was missing a hyperlink
+where the other similar headlines had one.
+
+&lt;!--
+Explain the **motivation** for making this change. What existing problem
+does the pull request solve?
+--&gt;
+
+## How did you test this change?
+
+N/A
+
+&lt;!--
+Demonstrate the code is solid. Example: The exact commands you ran and
+their output, screenshots / videos if the pull request changes the user
+interface.
+How exactly did you verify that your PR solves the issue you wanted to
+solve?
+  If you leave this empty, your PR will very likely be closed.
+--&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff60b11</div>
+                                        <div class="message">Add packageManager fields for Corepack compat (#29114)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#597ad74</div>
+                                        <div class="message">Bump version to 0.0.0-experimental-f978439-20240517</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#630c6fb</div>
+                                        <div class="message">Bump version to 0.0.0-experimental-c8b3f72-20240517</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2a64b0</div>
+                                        <div class="message">Bump version to 0.0.0-experimental-592953e-20240517</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1052a5f</div>
+                                        <div class="message">[compiler:publish] Don't check branch in debug mode
+
+ghstack-source-id: 465f5a358096c55310ebf5a0beef581646ab553e
+Pull Request resolved: https://github.com/facebook/react/pull/29153</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38d961f</div>
+                                        <div class="message">[compiler:publish] Bump time to reconsider to 3s
+
+ghstack-source-id: afc8976a8956db79ed824f30cf575d3f5cf93cfe
+Pull Request resolved: https://github.com/facebook/react/pull/29150</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b195a94</div>
+                                        <div class="message">[compiler:publish] Prompt for OTP
+
+Makes running the script a little more ergonomic by prompting for OTP
+upfront.
+
+ghstack-source-id: e9967bfde1ab01ff9417a848154743ae1926318d
+Pull Request resolved: https://github.com/facebook/react/pull/29149</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4fbc3a3</div>
+                                        <div class="message">[compiler:publish] Don't hash node_modules
+
+ghstack-source-id: 4ac2ecc8654b1a8c149ab9d00c06cb4c401473da
+Pull Request resolved: https://github.com/facebook/react/pull/29147</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7673e4</div>
+                                        <div class="message">[compiler:publish] Rename publish script
+
+ghstack-source-id: 1cccc91b5d0e69240b2f4f539c60eab0f156e15f
+Pull Request resolved: https://github.com/facebook/react/pull/29148</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a12a0d</div>
+                                        <div class="message">compiler: workaround babel issue with html entity escaping
+
+Babel doesn't seem to properly preserve escaping of HTML entities when emitting JSX text children, so this commit works around the issue by emitting a JsxExpressionContainer for JSX children that contain "&gt;", "&lt;", or "&amp;" characters.
+
+Closes #29100
+
+ghstack-source-id: 2d0622397cc067c6336f3635073e07daef854084
+Pull Request resolved: https://github.com/facebook/react/pull/29143</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#541e3c5</div>
+                                        <div class="message">[compiler:playground] Resizable tabs (#29133)
+
+## Summary
+
+Every tab wraps the text around but there is no way to resize it. It was
+also hard to use the source map tab. It doesn't occupy the full height
+nor is the tab resizable. So I made all the tabs resizable.
+&gt; Also,
+&gt; * make the source map tab occupy full height
+&gt; * make it a teeny tiny bit easier to work with the compiler playground
+(especially source map)
+
+## How did you test this change?
+
+
+https://github.com/facebook/react/assets/91976421/cdec30e8-cadb-4958-8786-31c54ea83bd6
+
+Signed-off-by: abizek &lt;abishekilango@protonmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d6eebf</div>
+                                        <div class="message">[Compiler][script] Dedupe error report counts before reporting in healthcheck (#29085)
+
+Certain compiler passes currently may collect a few error events before
+reporting (see
+https://github.com/facebook/react/blob/main/compiler/packages/babel-plugin-react-compiler/src/Entrypoint/Program.ts#L101-L107)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6400172</div>
+                                        <div class="message">compiler: update comment on memo cache import code
+
+ghstack-source-id: b6c98c78854c9125bef504731515b9854c01960d
+Pull Request resolved: https://github.com/facebook/react/pull/29142</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ecddf3c</div>
+                                        <div class="message">Add issue template for React Compiler
+
+Adds a GitHub issue template form so we can automatically categorize
+issues and get more information upfront. I mostly referenced the
+DevTools bug report template and made some tweaks.
+
+ghstack-source-id: 5bfc728a625f367932fc21263e82681079d3ac65
+Pull Request resolved: https://github.com/facebook/react/pull/29140</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be6712f</div>
+                                        <div class="message">compiler: Workaround Babel bug with unicode in jsx string attrs
+
+Workaround for a bug in older versions of Babel, where strings with unicode are incorrectly escaped when emitted as JSX attributes, causing double-escaping by later processing.
+
+Closes #29120
+Closes #29124
+
+ghstack-source-id: 065440d4fb97e164beb8a8f15f252f372a59c5a0
+Pull Request resolved: https://github.com/facebook/react/pull/29141</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af3a55e</div>
+                                        <div class="message">Lazily freeze in case anything in the currently initializing chunk is blocked (#29139)
+
+Fixed #29129.
+
+---------
+
+Co-authored-by: Hendrik Liebau &lt;mail@hendrik-liebau.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#477a3d1</div>
+                                        <div class="message">[compiler] Todo for for-await loops
+
+ghstack-source-id: 13f11edfbef2af2e2a9ab876c18b0a4013a3eae0
+Pull Request resolved: https://github.com/facebook/react/pull/29118</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -84,26 +294,6 @@
                                     <div class="commit">
                                         <div class="sha">#dcca493</div>
                                         <div class="message">feat: update browser action</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Debbl/surf-omni</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c48c2c7</div>
-                                        <div class="message">feat: color picker</div>
                                     </div>
                                 </div>
                             </section>
