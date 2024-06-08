@@ -14,4 +14,6 @@
   </p>
 </p>
 
-
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 40vh; left: 20vw; object-fit: cover; background-size: cover!important; width: 10vw; height: 10vw; animation: Toast--spinner infinite linear 60s, Overlay--motion-slideInLeft infinite alternate 1.06s, Overlay--motion-slideUp infinite alternate 2.2s; background: url('https://avatars.githubusercontent.com/u/61053131?s=400&u=32cac2e583b65ce6ad6fe276a9b1cf2760b7586e');]{x0000}$}
+```
