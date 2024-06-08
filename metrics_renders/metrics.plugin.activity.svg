@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,14 +23,292 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/starter-ts</span>
+                                        <span class="repo">Debbl/react</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9448057</div>
-                                        <div class="message">ci: auto update deps</div>
+                                        <div class="sha">#1f7e2d5</div>
+                                        <div class="message">chore: update deps</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 89 commits in
+                                        <span class="repo">Debbl/facebook-react</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b44263a</div>
+                                        <div class="message">Bump version to 0.0.0-experimental-31393f7-20240529</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd30dc3</div>
+                                        <div class="message">Bump version to 0.0.0-experimental-a97cca1-20240529</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#84c47b3</div>
+                                        <div class="message">Bump version to 0.0.0-experimental-487cb0e-20240529</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81c3775</div>
+                                        <div class="message">[compiler] Ignore run prettier commit in git blame</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d530e9</div>
+                                        <div class="message">[compiler:babel] Don't read config files when not running as part of
+user's pipeline
+
+When the user app has a babel.config file that is missing the compiler,
+strange things happen as babel does some strange merging of options from
+the user's config and in various callsites like in our eslint rule and
+healthcheck script. To minimize odd behavior, we default to not reading
+the user's babel.config
+
+Fixes #29135
+
+ghstack-source-id: d6fdc43c5c9107645f36718203873aa3f6228475
+Pull Request resolved: https://github.com/facebook/react/pull/29211</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c998bb1</div>
+                                        <div class="message">[compiler] Run prettier, fix snap
+
+After this is merged, I'll add it to .git-blame-ignore-revs. I can't do
+it now as the hash will change after ghstack lands this stack.
+
+ghstack-source-id: 054ca869b7839c589524c47d1962262f6b50f8ed
+Pull Request resolved: https://github.com/facebook/react/pull/29214</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#61aa159</div>
+                                        <div class="message">[compiler] Fix up prettier
+
+Our prettier setup is all messed up after the merge, so this PR should
+fix things
+
+ghstack-source-id: f825460ea6637138db6ba08fd6136fac3f7aa001
+Pull Request resolved: https://github.com/facebook/react/pull/29213</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9a0106</div>
+                                        <div class="message">feat(compiler): Implement constant string concat propagation (#29621)
+
+## Summary
+
+Resolves #29617
+
+## How did you test this change?
+I verified the implementation using the test.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1816476</div>
+                                        <div class="message">[Flight] Check if a return value is a client reference before introspecting (#29611)
+
+This didn't actually fail before but I'm just adding an extra check.
+
+Currently Client References are always "function" proxies so they never
+fall into this branch. However, we do in theory support objects as
+client references too depending on environment. We have checks
+elsewhere. So this just makes that consistent.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd4bb32</div>
+                                        <div class="message">compiler: fix for calls on builtin jsx/function types
+
+When I added new builtin types for jsx and functions, i forget to add a shape definition. This meant that attempting to accesss a property or method on these types would cause an internal error with an unresolved shape. That wasn't obvious because we rarely call methods on these types.
+
+I confirmed that the new fixtures here fail without the fix.
+
+ghstack-source-id: aa8f8d75a302bb5bac126d3e963594545e71ec74
+Pull Request resolved: https://github.com/facebook/react/pull/29624</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4633972</div>
+                                        <div class="message">compiler: error on reassigning to const
+
+We currently don't report an error if the code attempts to reassign a const. Our thinking has been that we're not trying to catch all possible mistakes you could make in JavaScript — that's what ESLint, TypeScript, and Flow are for — and that we want to focus on React errors. However, accidentally reassigning a const is easy to catch and doesn't get in the way of other analysis so let's implement it.
+
+Note that React Compiler's ESLint plugin won't report these errors by default, but they will show up in playground.
+
+Fixes #29598
+
+ghstack-source-id: a0af8b9a486d74a8991413322efddc3e3028c755
+Pull Request resolved: https://github.com/facebook/react/pull/29619</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97722ca</div>
+                                        <div class="message">Export `version` from `react-dom` entry with `react-server` condition (#29596)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1631227</div>
+                                        <div class="message">Fix: Use action implementation at time of dispatch (#29618)
+
+Fixes the behavior of actions that are queued by useActionState to use
+the action function that was current at the time it was dispatched, not
+at the time it eventually executes.
+
+The conceptual model is that the action is immediately dispatched, as if
+it were sent to a remote server/worker. It's the remote worker that
+maintains the queue, not the client.
+
+This is another property of actions makes them more like event handlers
+than like reducers.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2787eeb</div>
+                                        <div class="message">Clean up disableDOMTestUtils (#29610)
+
+`disableDOMTestUtils` and the FB build `ReactTestUtilsFB` allowed us to
+finish migrating internal callsites off of ReactTestUtils. Now that
+usage is cleaned up, we can remove the flag, build artifact, and test
+coverage for the deprecated utility methods.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#681a4aa</div>
+                                        <div class="message">Throw if React and React DOM versions don't match (#29236)
+
+Throw an error during module initialization if the version of the
+"react-dom" package does not match the version of "react".
+
+We used to be more relaxed about this, because the "react" package
+changed so infrequently. However, we now have many more features that
+rely on an internal protocol between the two packages, including Hooks,
+Float, and the compiler runtime. So it's important that both packages
+are versioned in lockstep.
+
+Before this change, a version mismatch would often result in a cryptic
+internal error with no indication of the root cause.
+
+Instead, we will now compare the versions during module initialization
+and immediately throw an error to catch mistakes as early as possible
+and provide a clear error message.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ec6a6f</div>
+                                        <div class="message">Repro function expr hoisting (#29615)
+
+Modified version of @mofeiZ's #29232 with CI passing (had to run
+prettier)
+
+---------
+
+Co-authored-by: Mofei Zhang &lt;feifei0@meta.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f23540</div>
+                                        <div class="message">cleanup[react-devtools]: remove unused supportsProfiling flag from store config (#29193)
+
+Looks like this is unused</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea6e059</div>
+                                        <div class="message">[Fiber] Enable Native console.createTask Stacks When Available (#29223)
+
+Stacked on #29206 and #29221.
+
+This disables appending owner stacks to console when
+`console.createTask` is available in the environment. Instead we rely on
+native "async" stacks that end up looking like this with source maps and
+ignore list enabled.
+
+&lt;img width="673" alt="Screenshot 2024-05-22 at 4 00 27 PM"
+src="https://github.com/facebook/react/assets/63648/5313ed53-b298-4386-8f76-8eb85bdfbbc7"&gt;
+
+Unfortunately Chrome requires a string name for each async stack and,
+worse, a suffix of `(async)` is automatically added which is very
+confusing since it seems like it might be an async component or
+something which it is not.
+
+In this case it's not so bad because it's nice to refer to the host
+component which otherwise doesn't have a stack frame since it's
+internal. However, if there were more owners here there would also be a
+`&lt;Counter&gt; (async)` which ends up being kind of duplicative.
+
+If the Chrome DevTools is not open from the start of the app, then
+`console.createTask` is disabled and so you lose the stack for those
+errors (or those parents if the devtools is opened later). Unlike our
+appended ones that are always added. That's unfortunate and likely to be
+a bit of a DX issue but it's also nice that it saves on perf in DEV mode
+for those cases. Framework dialogs can still surface the stack since we
+also track it in user space in parallel.
+
+This currently doesn't track Server Components yet. We need a more
+clever hack for that part in a follow up.
+
+I think I probably need to also add something to React DevTools to
+disable its stacks for this case too. Since it looks for stacks in the
+console.error and adds a stack otherwise. Since we don't add them
+anymore from the runtime, the DevTools adds them instead.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b078c81</div>
+                                        <div class="message">[Fiber] Replace setCurrentDebugFiberInDEV with runWithFiberInDEV (#29221)
+
+Stacked on #29044.
+
+To work with `console.createTask(...).run(...)` we need to be able to
+run a function in the scope of the task.
+
+The main concern with this, other than general performance, is that it
+might add more stack frames on very deep stacks that hit the stack
+limit. Such as with the commit phase where we recursively go down the
+tree. These callbacks aren't really necessary in the recursive part but
+only in the shallow invocation of the commit phase for each tag. So we
+could refactor the commit phase so that only the shallow part at each
+level is covered this way.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6cfa0f</div>
+                                        <div class="message">[Fiber] Use Owner/JSX Stack When Appending Stacks to Console (#29206)
+
+This one should be fully behind the `enableOwnerStacks` flag.
+
+Instead of printing the parent Component stack all the way to the root,
+this now prints the owner stack of every JSX callsite. It also includes
+intermediate callsites between the Component and the JSX call so it has
+potentially more frames. Mainly it provides the line number of the JSX
+callsite. In terms of the number of components is a subset of the parent
+component stack so it's less information in that regard. This is usually
+better since it's more focused on components that might affect the
+output but if it's contextual based on rendering it's still good to have
+parent stack. Therefore, I still use the parent stack when printing DOM
+nesting warnings but I plan on switching that format to a diff view
+format instead (Next.js already reformats the parent stack like this).
+
+__Follow ups__
+
+- Server Components show up in the owner stack for client logs but logs
+done by Server Components don't yet get their owner stack printed as
+they're replayed. They're also not yet printed in the server logs of the
+RSC server.
+
+- Server Component stack frames are formatted as the server and added to
+the end but this might be a different format than the browser. E.g. if
+server is running V8 and browser is running JSC or vice versa. Ideally
+we can reformat them in terms of the client formatting.
+
+- This doesn't yet update Fizz or DevTools. Those will be follow ups.
+Fizz still prints parent stacks in the server side logs. The stacks
+added to user space `console.error` calls by DevTools still get the
+parent stacks instead.
+
+- It also doesn't yet expose these to user space so there's no way to
+get them inside `onCaughtError` for example or inside a custom
+`console.error` override.
+
+- In another follow up I'll use `console.createTask` instead and
+completely remove these stacks if it's available.</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +321,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/starter-ts</span>
+                                        <span class="repo">Debbl/Debbl</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8c5dcbf</div>
-                                        <div class="message">ci: update version and cache</div>
+                                        <div class="sha">#087713e</div>
+                                        <div class="message">Delete bg.png</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +341,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/starter-next-app</span>
+                                        <span class="repo">Debbl/Debbl</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1ace46d</div>
-                                        <div class="message">ci: prune</div>
+                                        <div class="sha">#c08f6b1</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,34 +361,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/starter-next-app</span>
+                                        <span class="repo">Debbl/Debbl</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#70042b8</div>
-                                        <div class="message">ci: test</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Debbl/starter-next-app</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9759d0f</div>
-                                        <div class="message">ci: use pnpm official cache example</div>
+                                        <div class="sha">#c25db6b</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
