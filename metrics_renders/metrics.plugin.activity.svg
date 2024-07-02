@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="645" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="328" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.category,.track{display:flex;align-items:center}.category{flex-direction:column;flex:1 1 0}.track{justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,39 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">pk910/PoWFaucet</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Debbl/Web3-Frontend-Bootcamp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">task3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5337762</div>
+                                        <div class="message">task3: Debbl</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -68,358 +101,6 @@
                                     <div class="commit">
                                         <div class="sha">#37b7f73</div>
                                         <div class="message">style: lint</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">feat/update-deps</span>
-                                        in
-                                        <span class="repo">Debbl/facebook-react</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 135 commits in
-                                        <span class="repo">Debbl/facebook-react</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fb3b9ea</div>
-                                        <div class="message">fix[react-devtools] component badge in light mode is now not invisible (#29852)
-
-In light mode, component badges in profiler were invisible due to using
-the alpha channel to produce the grayish color. Instead I'm using the
-equivalent RGB without that alpha.
-
-**before**
-In light mode, component badges in profiler were invisible (forwardRef
-badge in this case):
-![Screenshot 2024-06-11 at 13 15
-16](https://github.com/facebook/react/assets/5188459/385b80a5-d385-4eac-bac6-7fec6938d78f)
-
-**after**
-Profiler tooltip fix. also notice there's no regression on the right
-menu:
-![Screenshot 2024-06-11 at 13 04
-41](https://github.com/facebook/react/assets/5188459/64aa27f7-35b8-4e3b-91d4-c12d5a97330e)
-
-also works in dark mode:
-![Screenshot 2024-06-11 at 13 12
-17](https://github.com/facebook/react/assets/5188459/99aa55fd-23ee-4881-9676-63eca86bf761)
-
-Still visible in components in light mode, whether selected or not:
-![Screenshot 2024-06-11 at 13 04
-49](https://github.com/facebook/react/assets/5188459/59c0bf63-d9b0-4d46-a145-f615249d1da0)
-
-components dark mode:
-![Screenshot 2024-06-11 at 13 10
-25](https://github.com/facebook/react/assets/5188459/16e61acc-c431-4bfa-8a65-ca6701f4379b)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c015abd</div>
-                                        <div class="message">[compiler] Remove unused scripts
-
-ghstack-source-id: ae0c1bf3654986a896d9acf4f3453e09502382ad
-Pull Request resolved: https://github.com/facebook/react/pull/29842</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae0525f</div>
-                                        <div class="message">[compiler] Remove playground postinstall script
-
-The ci step for the playground already installs playwright browsers so
-this step was unnecessary. It also doesn't work internally for our sync
-scripts
-
-ghstack-source-id: d6e761563759739cfdab0b65f55222f9a9346e8a
-Pull Request resolved: https://github.com/facebook/react/pull/29841</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a714685</div>
-                                        <div class="message">fix[compiler] remove duplicate parsePluginOptions from the compilePro… (#29831)
-
-&lt;!--
-  Thanks for submitting a pull request!
-We appreciate you spending the time to work on these changes. Please
-provide enough information so that others can review your pull request.
-The three fields below are mandatory.
-
-Before submitting a pull request, please make sure the following is
-done:
-
-1. Fork [the repository](https://github.com/facebook/react) and create
-your branch from `main`.
-  2. Run `yarn` in the repository root.
-3. If you've fixed a bug or added code that should be tested, add tests!
-4. Ensure the test suite passes (`yarn test`). Tip: `yarn test --watch
-TestName` is helpful in development.
-5. Run `yarn test --prod` to test in the production environment. It
-supports the same options as `yarn test`.
-6. If you need a debugger, run `yarn test --debug --watch TestName`,
-open `chrome://inspect`, and press "Inspect".
-7. Format your code with
-[prettier](https://github.com/prettier/prettier) (`yarn prettier`).
-8. Make sure your code lints (`yarn lint`). Tip: `yarn linc` to only
-check changed files.
-  9. Run the [Flow](https://flowtype.org/) type checks (`yarn flow`).
-  10. If you haven't already, complete the CLA.
-
-Learn more about contributing:
-https://reactjs.org/docs/how-to-contribute.html
---&gt;
-
-## Summary
-
-&lt;!--
-Explain the **motivation** for making this change. What existing problem
-does the pull request solve?
---&gt;
-
-The parsePluginOptions seemed to be duplicated within
-[BabelPlugin.ts](https://github.com/facebook/react/blob/f5af92d2c47d1e1f455faf912b1d3221d1038c37/compiler/packages/babel-plugin-react-compiler/src/Babel/BabelPlugin.ts#L32)
-and
-[Program.ts](https://github.com/facebook/react/blob/f5af92d2c47d1e1f455faf912b1d3221d1038c37/compiler/packages/babel-plugin-react-compiler/src/Entrypoint/Program.ts#L220).
-Since the options already parsed in BabelPlugin.ts should have been
-passed to compileProgram, in this PR we deleted parsePluginOptions in
-compileProgram and used the options passed as arguments as they are.
-I've done that.
-
-## How did you test this change?
-
-&lt;!--
-Demonstrate the code is solid. Example: The exact commands you ran and
-their output, screenshots / videos if the pull request changes the user
-interface.
-How exactly did you verify that your PR solves the issue you wanted to
-solve?
-  If you leave this empty, your PR will very likely be closed.
---&gt;
-
-&lt;img width="516" alt="image"
-src="https://github.com/facebook/react/assets/87469023/2a70c6ea-0330-42a2-adff-48ae3e905790"&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2774208</div>
-                                        <div class="message">Remove Warning: prefix and toString on console Arguments (#29839)
-
-Basically make `console.error` and `console.warn` behave like normal -
-when a component stack isn't appended. I need this because I need to be
-able to print rich logs with the component stack option and to be able
-to disable instrumentation completely in `console.createTask`
-environments that don't need it.
-
-Currently we can't print logs with richer objects because they're
-toString:ed first. In practice, pretty much all arguments we log are
-already toString:ed so it's not necessary anyway. Some might be like a
-number. So it would only be a problem if some environment can't handle
-proper consoles but then it's up to that environment to toString it
-before logging.
-
-The `Warning: ` prefix is historic and is both noisy and confusing. It's
-mostly unnecessary since the UI surrounding `console.error` and
-`console.warn` tend to have visual treatment around it anyway. However,
-it's actively misleading when `console.error` gets prefixed with a
-Warning that we consider an error level. There's an argument to be made
-that some of our `console.error` don't make the bar for an error but
-then the argument is to downgrade each of those to `console.warn` - not
-to brand all our actual error logging with `Warning: `.
-
-Apparently something needs to change in React Native before landing this
-because it depends on the prefix somehow which probably doesn't make
-sense already.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d172bda</div>
-                                        <div class="message">Add jest lint rules (#29760)
-
-## Overview
-
-Updates `eslint-plugin-jest` and enables the recommended rules with some
-turned off that are unhelpful.
-
-The main motivations is:
-a) we have a few duplicated tests, which this found an I deleted 
-b) making sure we don't accidentally commit skipped tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c50d593</div>
-                                        <div class="message">[compiler] Type `ref` prop as a ref
-
-Adds a shape type for component props, which has one defined property: "ref". This means that if the ref property exists, we can type usage of `props.ref` (or via destructuring) the same as the result of `useRef()` and infer downstream usage similarly.
-
-ghstack-source-id: 76cd07c5dfeea2a4aafe141912663b097308fd73
-Pull Request resolved: https://github.com/facebook/react/pull/29834</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf1bb2e</div>
-                                        <div class="message">Fix xplat sync syntax error</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f81d5ee</div>
-                                        <div class="message">Fix xplat sync (#29833)
-
-## Overview
-
-The clever trick in https://github.com/facebook/react/pull/29799 turns
-out to not work because signedsource includes the generated hash in the
-header. Reverts back to checking git diff, filtering out the REVISION
-file and `@generated` headers.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a532d91</div>
-                                        <div class="message">compiler: Known hooks/nonescaping scopes dont count as pruned
-
-There are two cases where it's legit/intended to remove scopes, and we can inline the scope rather than reify a "pruned" scope:
-* Scopes that contain a single instruction with a hook call. The fact that we create a scope in this case at all is just an artifact of it being simpler to do this and remove the scope later rather than try to avoid creating it in the first place. So for these scopes, we can just inline them.
-* Scopes that are provably non-escaping. Removing the scope is an optimization, not a case of us having to prune away something that should be there. So again, its fine to inline in this case.
-
-I found this from syncing the stack internally and looking at differences in compiled output. The latter case was most common but the first case is just an obvious improvement.
-
-ghstack-source-id: 80610ddafad65eb837d0037e2692dd74bc548088
-Pull Request resolved: https://github.com/facebook/react/pull/29820</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdbafc8</div>
-                                        <div class="message">compiler: Log metrics on pruned memo blocks/values
-
-Adds additional information to the CompileSuccess LoggerEvent:
-* `prunedMemoBlocks` is the number of reactive scopes that were pruned for some reason.
-* `prunedMemoValues` is the number of unique _values_ produced by those scopes.
-
-Both numbers exclude blocks that are just a hook call - ie although we create and prune a scope for eg `useState()`, that's just an artifact of the sequencing of our pipeline. So what this metric is counting is cases of _other_ values that go unmemoized. See the new fixture, which takes advantage of improvements in the snap runner to optionally emit the logger events in the .expect.md file if you include the "logger" pragma in a fixture.
-
-ghstack-source-id: c2015bb5565746d07427587526b71e23685279c2
-Pull Request resolved: https://github.com/facebook/react/pull/29810</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d445ac</div>
-                                        <div class="message">compiler: treat pruned scope outputs as reactive
-
-Mostly addresses the issue with non-reactive pruned scopes. Before, values from pruned scopes would not be memoized, but could still be depended upon by downstream scopes. However, those downstream scopes would assume the value could never change. This could allow the developer to observe two different versions of a value - the freshly created one (if observed outside a scope) or a cached one (if observed inside, or through) a scope which used the value but didn't depend on it.
-
-The fix here is to consider the outputs of pruned reactive scopes as reactive. Note that this is a partial fix because of things like control variables — the full solution would be to mark these values as reactive, and then re-run InferReactivePlaces. We can do this once we've fully converted our pipeline to use HIR everywhere. For now, this should fix most issues in practice because PruneNonReactiveDependencies already does basic alias tracking (see new fixture).
-
-ghstack-source-id: 364430bbeca4cfca2fbf9df4d92b2e61b3352311
-Pull Request resolved: https://github.com/facebook/react/pull/29790</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d193455</div>
-                                        <div class="message">compiler: Promote pruned scope declarations to temporaries if used in a later scope
-
-There's a category of bug currently where pruned reactive scopes whose outputs are non-reactive can have their code end up inlining into another scope, moving the location of the instruction. Any value that had a scope assigned has to have its order of evaluation preserved, despite the fact that it got pruned, so naively we could just force every pruned scope to have its declarations promoted to named variables.
-
-However, that ends up assigning names to _tons_ of scope declarations that don't really need to be promoted. For example, a scope with just a hook call ends up with:
-
-```
-const x = useFoo();
-
-=&gt;
-
-scope {
- $t0 = Call read useFoo$ (...);
-}
-$t1 = StoreLocal 'x' = read $t0;
-```
-
-Where t0 doesn't need to be promoted since it's used immediately to assign to another value which is a non-temporary.
-
-So the idea of this PR is that we can track outputs of pruned scopes which are directly referenced from inside a later scope. This fixes one of the two cases of the above pattern. We'll also likely have to consider values from pruned scopes as always reactive, i'll do that in the next PR.
-
-ghstack-source-id: b37fb9a7cb1430b7c35ec5946269ce5a886a486a
-Pull Request resolved: https://github.com/facebook/react/pull/29789</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa09304</div>
-                                        <div class="message">compiler: Represent pruned scopes instead of inlining
-
-There are a few places where we want to check whether a value actually got memoized, and we currently have to infer this based on values that "should" have a scope and whether a corresponding scope actually exists. This PR adds a new ReactiveStatement variant to model a reactive scope block that was pruned for some reason, and updates all the passes that prune scopes to instead produce this new variant.
-
-ghstack-source-id: aea6dab469acb1f20058b85cb6f9aafab5d167cd
-Pull Request resolved: https://github.com/facebook/react/pull/29781</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0e99f7</div>
-                                        <div class="message">Revert bad push</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13cd401</div>
-                                        <div class="message">don't commit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6b2ab1</div>
-                                        <div class="message">try this</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b35ff7</div>
-                                        <div class="message">Move @generated from build to sync (#29799)
-
-## Overview
-
-Reverts https://github.com/facebook/react/pull/26616 and implements the
-suggested way instead.
-
-This change in #26616 broken the internal sync command, which now
-results in duplicated `@generated` headers. It also makes it harder to
-detect changes during the diff train sync. Instead, we will check for
-changes, and if there are changes sign the files and commit them to the
-sync branch.
-
-## Strategy
-
-The new sync strategy accounts for the generated headers during the
-sync:
-- **Revert Version**: Revert the version strings
-- **Revert @generated**: Re-sign the files (will be the same hash as
-before if unchanged)
-- **Check**: Check if there are changes **if not, skip**
-- **Re-apply Version**: Now add back the new version string
-- **Re-sign @generated**: And re-generate the headers
-
-Then commit to branch. This ensures that if there are no changes, we'll
-skip.
-
----------
-
-Co-authored-by: Timothy Yung &lt;yungsters@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5af92d</div>
-                                        <div class="message">feat(compiler): Support MetaProperty (#29752)
-
-## Summary
-See #29737
-
-## How did you test this change?
-As the feature requires module support and the test runner does
-currently not support running tests as modules, I could only test it via
-playground.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2ae9e2</div>
-                                        <div class="message">Minify DEV bundles with closure (#29809)
-
-The goal is to improve speed of the development by inlining and DCE
-unused branches.
-
-We have the ability to preserve some variable names and pretty print in
-the production version so might as well do the same with DEV.</div>
                                     </div>
                                 </div>
                             </section>
