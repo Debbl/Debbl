@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="708" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="368" class="">
     <defs>
         <style/>
     </defs>
@@ -29,9 +29,70 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#697b7d6</div>
-                                        <div class="message">feat(framer-motion): animation-controls</div>
+                                        <div class="sha">#678eca4</div>
+                                        <div class="message">feat: add highlight</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Debbl/framer-motion-course</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#286af32</div>
+                                        <div class="message">fix: async animate</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Debbl/framer-motion-course</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b35eb20</div>
+                                        <div class="message">feat: useAnimate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a704d6b</div>
+                                        <div class="message">feat: animate controls</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#27 Vim</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">Debbl/me</span></div>
                                 </div>
                             </section>
                         </div>
@@ -43,217 +104,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#26 resume</span>
+                                        <span class="issue">#15 learn framer-motion</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by Debbl in <span class="repo">Debbl/me</span></div>
-                                    <div class="comment">
-                                        https://www.mujicv.com/
-我的简历-aw7LuJ.pdf
-                                        <b>丁波 - 前端工程师</b>
-                                        <b>基本信息</b>
-                                        ::: left
-姓名：丁波
-性别：男
-手机：17683923685
-邮箱：1685294601@qq.com
-:::
-::: right
-出生年月：2000年09月08日
-毕业院校：河南理工大学 2019.09-2023.06
-GitHub :  https://github.com/Debbl
-个人网站：https://aiwan.run/
-:::
-                                        <b>Chrome 插件</b>
-                                        有使用过
-                                        <code>wxt</code>
-                                        开发过对应的 chrome 插件，对于其开发流程有一个基本的了解
-
-https://github.com/Debbl/surf-omni
-                                        <b>专业技能</b>
-                                        <code>HTML</code>
-                                        <code>CSS</code>
-                                        <code>JavaScript</code>
-                                        <code>Vue</code>
-                                        <code>React</code>
-                                        <code>Node</code>
-                                        <code>TypeScript</code>
-                                        <code>JQuery</code>
-                                        <code>Webpack</code>
-                                        HTML： 盒子模型、定位和布局、元素语义化、事件流
-CSS： 选择器、响应式布局、flex布局、BFC
-JavaScript： 作用域链、闭包、this、柯里化、面向对象、继承、ES6 - ES12、Promise、迭代器和生成器
-TypeScript： 了解基础的语法，接口、类、泛型，可以使用 TS 开发 Vue、React、Node项目。
-Vue： 响应式原理、自定义指令、Options Api、Composition Api、vue-router、vuex、pinia
-React： React 的 JSX 语法、纯函数、函数组件、基本 Hook 的使用、react-router、redux 和 immutable
-及中间件的使用
-Next.js： 掌握其基础的用法，日常的一些小工具都是使用
-                                        <code>Next.js</code>
-                                        开发的，如我的博客
-Webpack： loader、plugin、Babel、Polyfill、ESLint、Prettier、环境分离、打包优化
-Node： Node 的基本使用、脚手架的搭建、Express、Koa
-                                        <b>工作经历</b>
-                                        上海亘岩软件有限公司（契约锁） 前端开发工程师 2023.07-2023.10
-                                        <b>文件组</b>
-                                        进行一些业务的开发，处理一些文件的的渲染和对应文件参数的配置也包括文件的上传、分片上传等，如 PDF 文件的展示和参数的拖拽布局等，期间也处理了一些 Prosemirror 相关的业务开发
-                                        <b>架构组</b>
-                                        开发了 ColorPicker、ImageCropper 等组件，重点写了 Prosemirror 的视频文件上传和代码块插件
-                                        <b>个人优点</b>
-                                        喜欢写一些小的工具，对于开源社区比较关注
-对于一些新技术比较感兴趣
-可以快速的上手新的技术栈，如 Vue 组件的开发和 Prosemirror 都是在慢慢的接触后开发业务的
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 176 commits in
-                                        <span class="repo">Debbl/Follow</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#69d3df4</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/dev' into feat/beta-public
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2444cea</div>
-                                        <div class="message">feat: hide if
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d89d02</div>
-                                        <div class="message">chore: split action setting tab
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14369db</div>
-                                        <div class="message">init
-
-Signed-off-by: Innei &lt;i@innei.in&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62adeb7</div>
-                                        <div class="message">chore: Release v0.0.1-alpha.19 (#758)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a89c22</div>
-                                        <div class="message">chore: Release v0.0.1-alpha.18 (#669)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2ba869</div>
-                                        <div class="message">chore: Release v0.0.1-alpha.17 (#595)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#103c2bf</div>
-                                        <div class="message">chore: Release v0.0.1-alpha.16 (#563)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66c5afb</div>
-                                        <div class="message">chore: Release v0.0.1-alpha.15 (#557)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f123f62</div>
-                                        <div class="message">chore: Release v0.0.1-alpha.14 (#548)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12bc55c</div>
-                                        <div class="message">chore: Release v0.0.1-alpha.13 (#441)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f31b092</div>
-                                        <div class="message">chore: Release v0.0.1-alpha.12 (#439)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3050ad0</div>
-                                        <div class="message">chore: Release v0.0.1-alpha.11 (#374)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1ec45b</div>
-                                        <div class="message">chore: Release v0.0.1-alpha.10 (#277)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#361fef6</div>
-                                        <div class="message">chore: Release v0.0.1-alpha.9 (#248)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88480e3</div>
-                                        <div class="message">chore: Release v0.0.1-alpha.8 (#246)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7bf6aae</div>
-                                        <div class="message">chore: Release v0.0.1-alpha.7 (#229)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7be0ccc</div>
-                                        <div class="message">chore: update version to v0.0.1-alpha.6
-
-chore: update version to v0.0.1-alpha.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#033a34c</div>
-                                        <div class="message">release: v0.0.1-alpha.5
-
-chore: Release v0.0.1-alpha.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd9b5b1</div>
-                                        <div class="message">Merge pull request #207 from RSSNext/dev
-
-chore: release v0.0.1-alpha.4</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Debbl/framer-motion-course</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#43bda54</div>
-                                        <div class="message">feat: gestures</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Debbl/framer-motion-course</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9ee7a79</div>
-                                        <div class="message">feat: sync</div>
-                                    </div>
+                                    <div class="comment">https://slides.aiwan.run/framer-motion</div>
                                 </div>
                             </section>
                         </div>
