@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="913" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.string{color:#2777aa}.token.tag{color:#48428a}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,713 +19,98 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">xingpingcn/enhanced-FaaS-in-China</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 49 commits in
-                                        <span class="repo">Debbl/Follow</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c409a5c</div>
-                                        <div class="message">fix: the volume bar can click and adjust style. (#1474)
-
-* fix: volume can use
-
-* fix: adjust volume style
-
-* chore: update changelog
-
-* Update changelog/next.md
-
-Co-authored-by: Innei &lt;tukon479@gmail.com&gt;
-
----------
-
-Co-authored-by: Innei &lt;tukon479@gmail.com&gt;
-Co-authored-by: Innei &lt;i@innei.in&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fc9d09</div>
-                                        <div class="message">fix: reduce timeline refresh, fixed #1474
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ef5622</div>
-                                        <div class="message">fix: setting loader type error (#1469)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3176f2</div>
-                                        <div class="message">chore: add cf cache tag to purge cache easily
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3e9c0e</div>
-                                        <div class="message">perf: batch profile (#1464)
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed5ee50</div>
-                                        <div class="message">fix: prevent default scrolling behavior while using arrow keys to switch between entries (#1447)
-
-* fix: prevent default scrolling behaviour while using arrow keys to switch between entries
-
-* chore: update changelog
-
-* chore: update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec82f03</div>
-                                        <div class="message">fix(i18n): update label for notification badge settings in zh-CN locale and others (#1455)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da8aad7</div>
-                                        <div class="message">fix: setting loader type error
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0d4f05</div>
-                                        <div class="message">fix: `defineSettingPageData` remove func wrapper
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05da9ca</div>
-                                        <div class="message">feat: replace twMacro with unplugin-ast (#1462)
-
-* feat: replace twMacro with unplugin-ast
-
-* fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16b5349</div>
-                                        <div class="message">fix: csrf token singleton (#1463)
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c875d69</div>
-                                        <div class="message">fix: app upgraded toast href error (#1444)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f845a1e</div>
-                                        <div class="message">chore(i18n): zh-CN (#1441)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b395891</div>
-                                        <div class="message">fix: not showing feed certification icon on the sidebar (#1442)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0d3e17</div>
-                                        <div class="message">feat: entry image gallery modal
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a92ef49</div>
-                                        <div class="message">fix(stream): prevent request if no ids
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6320c00</div>
-                                        <div class="message">fix: entry title can selectable, fixed #1428
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4073632</div>
-                                        <div class="message">fix: should remove app skeleton in error page
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1739208</div>
-                                        <div class="message">feat: fetch stream entry content
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8d1230</div>
-                                        <div class="message">fix: debug proxy page (#1439)
-
-* update
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;
-
-* test
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;
-
-* update
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;
-
-* update
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;
-
-* update
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;
-
-* update
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;
-
-* test
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;
-
-* fix
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;
-
-* update
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;
-
----------
-
-Signed-off-by: Innei &lt;tukon479@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">ericclemmons/click-to-component</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#30 React 文档学习 v18.3.1</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">Debbl/me</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 280 commits in
-                                        <span class="repo">Debbl/facebook-react</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Debbl/starter-electron-app</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#43264a6</div>
-                                        <div class="message">[compiler][cleanup] Remove unused enableReactiveScopesInHIR flag
-
-Reactive scopes in HIR has been stable for over 3 months now and is the future direction of react compiler, removing this flag to reduce implementation forks.
-
-ghstack-source-id: 65cdf63cf76029fa22d40fd85aba0ac976dcfc08
-Pull Request resolved: https://github.com/facebook/react/pull/30891</div>
+                                        <div class="sha">#4365cda</div>
+                                        <div class="message">fix: ci pnpm set node</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#a03254b</div>
-                                        <div class="message">[Fiber] Move runWithFiberInDEV from CommitWork to CommitEffects (#30882)
-
-Stacked on #30881.
-
-Move `runWithFiberInDEV` from the recursive part of the commit phase and
-instead wrap each call into user space. These should really map 1:1 with
-where we're using `try/catch` since that's where we're calling into user
-space.
-
-The goal of this is to avoid the extra stack frames added by
-`enableOwnerStacks` in the recursive parts to avoid stack overflow. This
-way we only have a couple of extra at the end of the stack instead of a
-couple of extra at every depth of the tree.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Debbl/starter-electron-app</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fe03c56</div>
-                                        <div class="message">[Fiber] Extract Functions that Call User Space and Host Configs in Commit to Separate Modules (#30881)
-
-This is mostly just moves and same code extracted into utility
-functions.
-
-This is to help clarify what needs to be wrapped in try/catch and
-runWithFiberInDEV. I'll do the runWithFiberInDEV changes in a follow up.
-
-This leaves ReactCommitWork mostly to do matching on the tag and the
-recursive loops.</div>
+                                        <div class="sha">#fadf480</div>
+                                        <div class="message">feat: build action</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#a06cd9e</div>
-                                        <div class="message">[DevTools] Refactor Forcing Fallback / Error of Suspense / Error Boundaries (#30870)
-
-First, this basically reverts
-https://github.com/facebook/react/pull/30517/commits/1f3892ef8cc181218587ddc6accd994890c92ef5
-to use a Map/Set to track what is forced to suspend/error again instead
-of flags on the Instance. The difference is that now the key in the
-Fiber itself instead of the ID. Critically this avoids the
-fiberToFiberInstance map to look up whether or not a Fiber should be
-forced to suspend when asked by the renderer.
-
-This also allows us to force suspend/error on filtered instances. It's a
-bit unclear what should happen when you try to Suspend or Error a child
-but its parent boundary is filtered. It was also inconsistent between
-Suspense and Error due to how they were implemented.
-
-I think conceptually you're trying to simulate what would happen if that
-Component errored or suspended so it would be misleading if we triggered
-a different boundary than would happen in real life. So I think we
-should trigger the nearest unfiltered Fiber, not the nearest Instance.
-The consequence of this however is that if this instance was filtered,
-there's no way to undo it without refreshing or removing the filter.
-This is an edge case though since it's unusual you'd filter these in the
-first place.
-
-It used to be that Suspense walked the store in the frontend and Error
-walked the Fibers in the backend. They also did this somewhat eagerly.
-This simplifies and unifies the model by passing the id of what you
-clicked in the frontend and then we walk the Fiber tree from there in
-the backend to lazily find the boundary. However I also eagerly walk the
-tree at first to find whether we have any Suspense or Error boundary
-parents at all so we can hide the buttons if not.
-
-This also implements it to work with VirtualInstances using #30865. I
-find the nearest Fiber Instance downwards filtered or otherwise. Then
-from its parent we find the nearest Error or Suspense boundary. That's
-because VirtualInstance will always have their inner Fiber as an
-Instance but they might not have their parent since it might be
-filtered. Which would potentially cause us to skip over a filtered
-parent Suspense boundary.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Debbl/starter-electron-app</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d72e477</div>
-                                        <div class="message">[compiler runtime] repro: infinite render with useMemoCache + render phase updates (#30849)
-
-Repro for an infinite render bug we found when testing internally. See
-equivalent codesandbox repro
-[here](https://codesandbox.io/p/sandbox/epic-euclid-mr7lm3).
-
-When render phase updates cause a re-render, useMemoCache arrays for the
-fiber are
-[cleared](https://github.com/facebook/react/blob/main/packages/react-reconciler/src/ReactFiberHooks.js#L819)
-and [recreated on every
-retry](https://github.com/facebook/react/blob/main/packages/react-reconciler/src/ReactFiberHooks.js#L1223)
-while hook state is preserved.
-
-This pattern (queuing re-renders on the current fiber during render) is
-perfectly valid. I believe this is a bug as React compiler currently
-replaces `useMemo`s with `useMemoCache` calls and inlined instructions,
-taking care to preserve existing memoization dependencies. This should
-be the identity transform, but runtime implementation differences mean
-that uncompiled code behaves as expected (no infinite render) while
-compiled code fails to render.</div>
+                                        <div class="sha">#95802ea</div>
+                                        <div class="message">feat: add squirrel and dmg maker</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c58fce</div>
-                                        <div class="message">[DevTools] Avoid getFiberIDUnsafe in debug() Helper (#30878)
-
-Avoids looking up id from fiber and instead pass the instance to the
-debug() helper.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Debbl/starter-electron-app</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#01ae2dd</div>
-                                        <div class="message">[DevTools] Include some Filtered Fiber Instances (#30865)
-
-When we filter Fiber Instances where have no way to recover our position
-in the Fiber tree. The extreme form of this is if you filter out all the
-Fibers and keep only Server Components.
-
-This affects operations that are performed against fibers such as
-collecting Host Instances for highlighting or emulating
-suspending/erroring.
-
-Conceptually we don't need to add this into the DevToolsInstance tree
-because we only need to get to some Fibers from a VirtualInstance. A
-Virtual Instance can contain more than one conceptual child Fiber. It
-would be easier if we didn't include them in the tree on one hand
-because we could just traverse the tree and assume it looks like the one
-on the frontend. But it's also tricky to manage the lifetime. So I went
-with a special FilteredFiberInstance node in the tree.
-
-Currently I only add it if its parent would've been a VirtualInstance
-since we don't need it in any other cases. If the parent was another
-FiberInstance it already has a Fiber.
-
-There might be need for always tracking all Instances whether they're
-filtered or not or just moving filtering to the frontend but for now I'm
-keeping the general architecture as is.</div>
+                                        <div class="sha">#e4df812</div>
+                                        <div class="message">chore: deps ans lint</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#f820f5a</div>
-                                        <div class="message">[compiler] Type inference for tagged template literals
-
-At Meta we have a pattern of using tagged template literals for features that are compiled away:
-
-```
-// Relay:
-graphql`...graphql text...`
-```
-
-In many cases these tags produce a primitive value, and we can get even more optimal output if we can tell the compiler about these types. The new moduleTypeProvider gives us the ability to declare such types, this PR extends the compiler to use this type information for TaggedTemplateExpression values.
-
-ghstack-source-id: 3cd6511b7f4e708bcb86f3f3fde5773bc51c7197
-Pull Request resolved: https://github.com/facebook/react/pull/30869</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Debbl/starter-electron-app</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0123d7c</div>
-                                        <div class="message">[DevTools] Track root instances in a root Map (#30875)
-
-The FiberRoot is a stateful node that can be tracked this way.
-
-This is another step that will let us remove the
-`fiberToFiberInstanceMap`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e10e868</div>
-                                        <div class="message">Schedule prerender after something suspends (#30800)
-
-Adds the concept of a "prerender". These special renders are spawned
-whenever something suspends (and we're not already prerendering).
-
-The purpose is to move speculative rendering work into a separate phase
-that does not block the UI from updating. For example, during a
-transition, if something suspends, we should not speculatively prerender
-siblings that will be replaced by a fallback in the UI until *after* the
-fallback has been shown to the user.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b4c54c</div>
-                                        <div class="message">Temporarily disable suspending during work loop (#30762)
-
-### Based on
-
-- #30761 
-- #30759 
-
----
-
-`use` has an optimization where in some cases it can suspend the work
-loop during the render phase until the data has resolved, rather than
-unwind the stack and lose context. However, the current implementation
-is not compatible with sibling prerendering. So I've temporarily
-disabled it until the sibling prerendering has been refactored. We will
-add it back in a later step.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1afcb4</div>
-                                        <div class="message">[DevTools] Track all public HostInstances in a Map (#30831)
-
-This lets us get from a HostInstance to the nearest DevToolsInstance
-without relying on `findFiberByHostInstance` and
-`fiberToDevToolsInstanceMap`. We already did the equivalent of this for
-Resources in HostHoistables.
-
-One issue before was that we'd ideally get away from the
-`fiberToDevToolsInstanceMap` map in general since we should ideally not
-treat Fibers as stateful but they could be replaced by something else
-stateful in principle.
-
-This PR also addresses Virtual Instances. Now you can select a DOM node
-and have it select a Virtual Instance if that's the nearest parent since
-the parent doesn't have to be a Fiber anymore.
-
-However, the other reason for this change is that I'd like to get rid of
-the need for the `findFiberByHostInstance` from being injected. A
-renderer should not need to store a reference back from its instance to
-a Fiber. Without the Synthetic Event system this wouldn't be needed by
-the renderer so we should be able to remove it. We also don't really
-need it since we have all the information by just walking the commit to
-collect the nodes if we just maintain our own Map.
-
-There's one subtle nuance that the different renderers do. Typically a
-HostInstance is the same thing as a PublicInstance in React but
-technically in Fabric they're not the same. So we need to translate
-between PublicInstance and HostInstance. I just hardcoded the Fabric
-implementation of this since it's the only known one that does this but
-could feature detect other ones too if necessary. On one hand it's more
-resilient to refactors to not rely on injected helpers and on hand it
-doesn't follow changes to things like this.
-
-For the conflict resolution I added in #30494 I had to make that
-specific to DOM so we can move the DOM traversal to the backend instead
-of the injected helper.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d68da3</div>
-                                        <div class="message">[Fiber] Stash ThenableState on the Dependencies Object for Use By DevTools (#30866)
-
-This lets us track what a Component might suspend on from DevTools. We
-could already collect this by replaying a component's Hooks but that
-would be expensive to collect from a whole tree.
-
-The thenables themselves might contain useful information but mainly
-we'd want access to the `_debugInfo` on the thenables which might
-contain additional information from the server.
-
-
-https://github.com/facebook/react/blob/19bd26beb689e554fceb0b929dc5199be8cba594/packages/shared/ReactTypes.js#L114
-
-In a follow up we should really do something similar in Flight to
-transfer `use()` on the debugInfo of that Server Component.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0a07e9</div>
-                                        <div class="message">[DevTools] Support VirtualInstances in findAllCurrentHostInstances (#30853)
-
-This lets us highlight Server Components.
-
-However, there is a problem with this because if the actual nearest
-Fiber is filtered, there's no FiberInstance and so we might skip past it
-and maybe never find a child while walking the whole tree. This is very
-common in the case where you have just Server Components and Host
-Components which are filtered by default.
-
-Note how the DOM nodes that are just plain host instances without client
-component wrappers are not highlighted here:
-
-&lt;img width="1102" alt="Screenshot 2024-08-30 at 4 33 55 PM"
-src="https://github.com/user-attachments/assets/c9a7b91e-5faf-4c60-99a8-1195539ff8b5"&gt;
-
-Fixing that needs a separate refactor though and related to several
-other features that already have a similar issue without
-VirtualInstances like Suspense/Error Boundaries (triggering
-suspense/error on a filtered Suspense/ErrorBoundary doesn't work
-correctly). So this first PR just adds the feature for the common case
-where there's at least some Fibers.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04ec50e</div>
-                                        <div class="message">[DevTools] Add Filtering of Environment Names (#30850)
-
-Stacked on #30842.
-
-This adds a filter to be able to exclude Components from a certain
-environment. Default to Client or Server.
-
-The available options are computed into a dropdown based on the names
-that are currently used on the page (or an option that were previously
-used). In addition to the hardcoded "Client". Meaning that if you have
-Server Components on the page you see "Server" or "Client" as possible
-options but it can be anything if there are multiple RSC environments on
-the page.
-
-"Client" in this case means Function and Class Components in Fiber -
-excluding built-ins.
-
-If a Server Component has two environments (primary and secondary) then
-both have to be filtered to exclude it.
-
-We don't show the option at all if there are no Server Components used
-in the page to avoid confusing existing users that are just using Client
-Components and wouldn't know the difference between Server vs Client.
-
-&lt;img width="815" alt="Screenshot 2024-08-30 at 12 56 42 AM"
-src="https://github.com/user-attachments/assets/e06b225a-e85d-4cdc-8707-d4630fede19e"&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f60494</div>
-                                        <div class="message">[Flight] Ship DEV-only enableServerComponentLogs flag in Stable/Canary (#30847)
-
-To recap. This only affects DEV and RSC. It patches console on the
-server in DEV (similar to how React DevTools already does and what we
-did for the double logging). Then replays those logs with a `[Server]`
-badge on the client so you don't need a server terminal open.
-
-This has been on for over 6 months now in our experimental channel and
-we've had a lot of coverage in Next.js due to various experimental flags
-like taint and ppr.
-
-It's non-invasive in that even if something throws we just serialize
-that as an unknown value.
-
-The main feedback we've gotten was:
-
-- The serialization depth wasn't deep enough which I addressed in #30294
-and haven't really had any issues since. This could still be an issue or
-the inverse that you serialize too many logs that are also too deep.
-This is not so much an issue with intentional logging and things like
-accidental errors don't typically have unbounded arguments (e.g. React
-errors are always string arguments). The ideal would be some way to
-retain objects and then load them on-demand but that needs more
-plumbing. Which can be later.
-- The other was that double logging on the server is annoying if the
-same terminal does both the RSC render and SSR render which was
-addressed in #30207. It is now off by default in node/edge-builds of the
-client, on by default in browser builds. With the `replayConsole` option
-to either opt-in or out.
-
-We've reached a good spot now I think.
-
-These are better with `enableOwnerStacks` but that's a separate track
-and not needed.
-
-The only thing to document here, other than maybe that we're doing it,
-is the `replayConsole` option but that's part of the RSC renderers that
-themselves are not documented so nowhere to document it.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e56f4ae</div>
-                                        <div class="message">[DevTools] Support secondary environment name when it changes (#30842)
-
-We currently support the Environment Name change within a Component.
-#29867
-
-If this happens, we give it two HoCs. The problem with this is that we
-only show one followed by `+1` in the list.
-
-Before:
-&lt;img width="529" alt="Screenshot 2024-08-28 at 6 50 31 PM"
-src="https://github.com/user-attachments/assets/c080be72-c254-4d4d-89b6-d1b7f9a9ada8"&gt;
-
-After:
-&lt;img width="1101" alt="Screenshot 2024-08-28 at 7 16 21 PM"
-src="https://github.com/user-attachments/assets/04718674-164b-4255-9cf6-dec9198f12b7"&gt;
-
-I could potentially instead badge this case as `A/B` in a single badge.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8308d2f</div>
-                                        <div class="message">fix[react-devtools/ReactDebugHooks]: support unstable prefixes in hooks and useContextWithBailout (#30837)
-
-Related - https://github.com/facebook/react/pull/30407.
-
-This is experimental-only and FB-only hook. Without these changes,
-inspecting an element that is using this hook will throw an error,
-because this hook is missing in Dispatcher implementation from React
-DevTools, which overrides the original one to build the hook tree.
-
-![Screenshot 2024-08-28 at 18 42
-55](https://github.com/user-attachments/assets/e3bccb92-74fb-4e4a-8181-03d13f8512c0)
-
-One nice thing from it is that in case of any potential regressions
-related to this experiment, we can quickly triage which implementation
-of `useContext` is used by inspecting an element in React DevTools.
-
-Ideally, I should've added some component that is using this hook to
-`react-devtools-shell`, so it can be manually tested, but I can't do it
-without rewriting the infra for it. This is because this hook is only
-available from fb-www builds, and not experimental.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#394e75d</div>
-                                        <div class="message">[DevTools] Increase max payload for websocket in standalone app (#30848)
-
-&lt;!--
-  Thanks for submitting a pull request!
-We appreciate you spending the time to work on these changes. Please
-provide enough information so that others can review your pull request.
-The three fields below are mandatory.
-
-Before submitting a pull request, please make sure the following is
-done:
-
-1. Fork [the repository](https://github.com/facebook/react) and create
-your branch from `main`.
-  2. Run `yarn` in the repository root.
-3. If you've fixed a bug or added code that should be tested, add tests!
-4. Ensure the test suite passes (`yarn test`). Tip: `yarn test --watch
-TestName` is helpful in development.
-5. Run `yarn test --prod` to test in the production environment. It
-supports the same options as `yarn test`.
-6. If you need a debugger, run `yarn test --debug --watch TestName`,
-open `chrome://inspect`, and press "Inspect".
-7. Format your code with
-[prettier](https://github.com/prettier/prettier) (`yarn prettier`).
-8. Make sure your code lints (`yarn lint`). Tip: `yarn linc` to only
-check changed files.
-  9. Run the [Flow](https://flowtype.org/) type checks (`yarn flow`).
-  10. If you haven't already, complete the CLA.
-
-Learn more about contributing:
-https://reactjs.org/docs/how-to-contribute.html
---&gt;
-
-## Summary
-
-&lt;!--
-Explain the **motivation** for making this change. What existing problem
-does the pull request solve?
---&gt;
-
-When debugging applications that are experiencing runaway re-rendering,
-it is helpful to profile them in the React Developer Tools.
-Unfortunately there is a size limit on the captured profile which can
-make them impossible to inspect or save. The limitations I have found
-are in `postMessage` for the Chrome extension and in the `ws` websocket
-server for the standalone app.
-
-Profiling an app that produces a large profile artifact will simply show
-that no profiling data was captured and output an error in the console,
-here shown for the standalone app:
-
-```text
-standalone.js:92 [React DevTools] Error with websocket connection i {target: H, type: 'error', message: 'Max payload size exceeded', error: RangeError: Max payload size exceeded
-    at e.exports.haveLength (/Users/rune/.npm/_npx/8ea6ac5c50…}error: RangeError: Max payload size exceeded
-```
-
-This change simply increases the max payload of the websocket server in
-the standalone app so that larger profiles may be captured and
-inspected.
-
-## How did you test this change?
-
-&lt;!--
-Demonstrate the code is solid. Example: The exact commands you ran and
-their output, screenshots / videos if the pull request changes the user
-interface.
-How exactly did you verify that your PR solves the issue you wanted to
-solve?
-  If you leave this empty, your PR will very likely be closed.
---&gt;
-
-I verified that I could capture and inspect profiling data that
-previously exceeded the default limitation for a particular app</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#071dd00</div>
-                                        <div class="message">[compiler] Errors in earlier functions dont stop subsequent compilation
-
-Errors in an earlier component/hook shouldn't stop later components from compiling.
-
-ghstack-source-id: 6e04a5bb2e2045303cbddad6d6d4bd38d5f7990b
-Pull Request resolved: https://github.com/facebook/react/pull/30844</div>
+                                        <div class="sha">#43e9364</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
