@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/starter-electron-app</span>
+                                        <span class="repo">Debbl/tools.aiwan.run</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4d8e359</div>
-                                        <div class="message">ci: lock deps file</div>
+                                        <div class="sha">#f296634</div>
+                                        <div class="message">feat: add github link</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/starter-electron-app</span>
+                                        <span class="repo">Debbl/tools.aiwan.run</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#31487d3</div>
-                                        <div class="message">fix: ci lock file</div>
+                                        <div class="sha">#36b2764</div>
+                                        <div class="message">fix: render item title</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,84 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/starter-electron-app</span>
+                                        <span class="repo">Debbl/tools.aiwan.run</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fa9aaf7</div>
-                                        <div class="message">feat: wait for renderer process is start in dev mode</div>
+                                        <div class="sha">#8492e74</div>
+                                        <div class="message">chore(deps): bump the all-dependencies-with-semver group with 6 updates (#16)
+
+Bumps the all-dependencies-with-semver group with 6 updates:
+
+| Package | From | To |
+| --- | --- | --- |
+| [jotai](https://github.com/pmndrs/jotai) | `2.10.1` | `2.10.2` |
+| [next](https://github.com/vercel/next.js) | `15.0.2` | `15.0.3` |
+| [next-themes](https://github.com/pacocoursey/next-themes) | `0.4.1` | `0.4.3` |
+| [@next/bundle-analyzer](https://github.com/vercel/next.js/tree/HEAD/packages/next-bundle-analyzer) | `15.0.2` | `15.0.3` |
+| [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) | `22.8.7` | `22.9.0` |
+| [postcss](https://github.com/postcss/postcss) | `8.4.47` | `8.4.48` |
+
+
+Updates `jotai` from 2.10.1 to 2.10.2
+- [Release notes](https://github.com/pmndrs/jotai/releases)
+- [Commits](https://github.com/pmndrs/jotai/compare/v2.10.1...v2.10.2)
+
+Updates `next` from 15.0.2 to 15.0.3
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.0.2...v15.0.3)
+
+Updates `next-themes` from 0.4.1 to 0.4.3
+- [Release notes](https://github.com/pacocoursey/next-themes/releases)
+- [Commits](https://github.com/pacocoursey/next-themes/compare/v0.4.1...v0.4.3)
+
+Updates `@next/bundle-analyzer` from 15.0.2 to 15.0.3
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/commits/v15.0.3/packages/next-bundle-analyzer)
+
+Updates `@types/node` from 22.8.7 to 22.9.0
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+Updates `postcss` from 8.4.47 to 8.4.48
+- [Release notes](https://github.com/postcss/postcss/releases)
+- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/postcss/postcss/compare/8.4.47...8.4.48)
+
+---
+updated-dependencies:
+- dependency-name: jotai
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: all-dependencies-with-semver
+- dependency-name: next
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: all-dependencies-with-semver
+- dependency-name: next-themes
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: all-dependencies-with-semver
+- dependency-name: "@next/bundle-analyzer"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+  dependency-group: all-dependencies-with-semver
+- dependency-name: "@types/node"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: all-dependencies-with-semver
+- dependency-name: postcss
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+  dependency-group: all-dependencies-with-semver
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,14 +153,41 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/starter-electron-app</span>
+                                        <span class="repo">Debbl/starter-ts</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#65921d5</div>
-                                        <div class="message">fix: kill process</div>
+                                        <div class="sha">#3214c50</div>
+                                        <div class="message">chore(deps): bump the all-dependencies group with 2 updates (#31)
+
+Bumps the all-dependencies group with 2 updates: [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) and [rollup](https://github.com/rollup/rollup).
+
+
+Updates `@types/node` from 22.8.7 to 22.9.0
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+Updates `rollup` from 4.24.4 to 4.25.0
+- [Release notes](https://github.com/rollup/rollup/releases)
+- [Changelog](https://github.com/rollup/rollup/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/rollup/rollup/compare/v4.24.4...v4.25.0)
+
+---
+updated-dependencies:
+- dependency-name: "@types/node"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: all-dependencies
+- dependency-name: rollup
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: all-dependencies
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,14 +200,59 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/starter-electron-app</span>
+                                        <span class="repo">Debbl/starter-next-app</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a389320</div>
-                                        <div class="message">fix: dev mode exit error</div>
+                                        <div class="sha">#8183f2c</div>
+                                        <div class="message">chore(deps): bump the all-dependencies-with-semver group with 4 updates (#31)
+
+Bumps the all-dependencies-with-semver group with 4 updates: [next](https://github.com/vercel/next.js), [@next/bundle-analyzer](https://github.com/vercel/next.js/tree/HEAD/packages/next-bundle-analyzer), [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) and [postcss](https://github.com/postcss/postcss).
+
+
+Updates `next` from 15.0.2 to 15.0.3
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.0.2...v15.0.3)
+
+Updates `@next/bundle-analyzer` from 15.0.2 to 15.0.3
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/commits/v15.0.3/packages/next-bundle-analyzer)
+
+Updates `@types/node` from 22.8.7 to 22.9.0
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+Updates `postcss` from 8.4.47 to 8.4.49
+- [Release notes](https://github.com/postcss/postcss/releases)
+- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/postcss/postcss/compare/8.4.47...8.4.49)
+
+---
+updated-dependencies:
+- dependency-name: next
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: all-dependencies-with-semver
+- dependency-name: "@next/bundle-analyzer"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+  dependency-group: all-dependencies-with-semver
+- dependency-name: "@types/node"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: all-dependencies-with-semver
+- dependency-name: postcss
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+  dependency-group: all-dependencies-with-semver
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
