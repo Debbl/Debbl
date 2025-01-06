@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="694" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,35 +22,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Debbl/ai.aiwan.run</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">Debbl/slides</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#caa8090</div>
+                                        <div class="sha">#3b8ca2e</div>
                                         <div class="message">chore: update deps</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Debbl/ai.aiwan.run</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b2f6cc0</div>
-                                        <div class="message">Update renovate.json</div>
+                                        <div class="sha">#37a74be</div>
+                                        <div class="message">ci: add renovate</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,29 +46,338 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Debbl/reader-markdown</span>
+                                        Pushed 186 commits in
+                                        <span class="repo">Debbl/facebook-react</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f5a5535</div>
-                                        <div class="message">chore(deps): bump next from 14.2.10 to 14.2.21 (#13)
+                                        <div class="sha">#b01722d</div>
+                                        <div class="message">Format event with "warning" yellow and prefix with "Event: " (#31536)
 
-Bumps [next](https://github.com/vercel/next.js) from 14.2.10 to 14.2.21.
-- [Release notes](https://github.com/vercel/next.js/releases)
-- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/compare/v14.2.10...v14.2.21)
+It's useful to quickly see where new events are kicking off new
+rendering. This uses the new "warning" color (yellow) to do that. This
+is to help distinguish it from the purple (secondary color) which is
+used for the commit phase which is more of a follow up and it's often
+that you have several rerenders within one event which makes it hard to
+tell a part where it starts and event otherwise.
 
+For the span marking between previous render within the same event and
+the next setState, I use secondary-light (light purple) since it's kind
+of still part of the same sequence at that point. It's usually a spawned
+render (e.g. setState in useEffect or microtask) but it can also be
+sequential flushSync.
+
+I was bothered by that the event name is the only thing that's lower
+case so I prefixed it with `Event: ` like the JS traces are.
+
+&lt;img width="1499" alt="Screenshot 2024-11-13 at 7 15 45 PM"
+src="https://github.com/user-attachments/assets/0c81c810-6b5d-4fc7-9bc0-d15b53844ade"&gt;
+
+It might be a little confusing why our track starts earlier than the JS
+one below in the "Main Thread" flamegraph which looks the same. That's
+because ours is the start of the event time which is when the click
+happens where as the Main Thread one is when the JS event loop gets
+around to processing the event.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c13986d</div>
+                                        <div class="message">Fix Overlapping "message" Bug in Performance Track (#31528)
+
+When you schedule a microtask from render or effect and then call
+setState (or ping) from there, the "event" is the event that React
+scheduled (which will be a postMessage). The event time of this new
+render will be before the last render finished.
+
+We usually clamp these but in this scenario the update doesn't happen
+while a render is happening. Causing overlapping events.
+
+Before:
+
+&lt;img width="1229" alt="Screenshot 2024-11-12 at 11 01 30 PM"
+src="https://github.com/user-attachments/assets/9652cf3b-b358-453c-b295-1239cbb15952"&gt;
+
+Therefore when we finalize a render we need to store the end of the last
+render so when we a new update comes in later with an event time earlier
+than that, we know to clamp it.
+
+There's also a special case here where when we enter the
+`RootDidNotComplete` or `RootSuspendedWithDelay` case we neither leave
+the root as in progress nor commit it. Those needs to finalize too.
+Really this should be modeled as a suspended track that we haven't added
+yet. That's the gap between "Blocked" and "message" below.
+
+After:
+
+&lt;img width="1471" alt="Screenshot 2024-11-13 at 12 31 34 AM"
+src="https://github.com/user-attachments/assets/b24f994e-9055-4b10-ad29-ad9b36302ffc"&gt;
+
+I also fixed an issue where we may log the same event name multiple
+times if we're rendering more than once in the same event. In this case
+I just leave a blank trace between the last commit and the next update.
+
+I also adding ignoring of the "message" event at all in these cases when
+the event is from React's scheduling itself.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4686872</div>
+                                        <div class="message">Log passive commit phase when it wasn't delayed (#31526)
+
+Fixes a bug.
+
+We're supposed to not log "Waiting for Paint" if the passive effect
+phase was forced since we weren't really waiting until the paint.
+Instead we just log an empty string when we force it to still ensure
+continuity.
+
+We should always log the passive phase. This check was in the wrong
+place.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d89471</div>
+                                        <div class="message">Export __COMPILER_RUNTIME in stable (#31540)
+
+In order to make use of the compiler in stable releases (eg React 19 RC,
+canary), we need to export the compiler runtime in the stable channel as
+well.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c15d21</div>
+                                        <div class="message">[compiler] Disable emit of .tsbuildinfo (#31459)
+
+## Summary
+`@rollup/plugin-typescript` emits a warning while building, hinting that
+`outputToFilesystem` defaults to true.
+
+Although "noEmit" is set to `true` for the tsconfig, rollup writes a
+`dist/.tsbuildinfo`. That file is then also shipped inside the npm
+module and doesn't offer any benefit for library consumers. Setting this
+option to false results in the file not being written and thus omitted
+from the npm module.
+
+## How did you test this change?
+`dist/.tsbuildinfo` is not emitted any more.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3644f0b</div>
+                                        <div class="message">Use completedRenderEndTime as the start of the commit phase if it's an immediate commit (#31527)
+
+We don't log a phase like "Throttled" or "Suspended" for this case so it
+can leave a tiny gap otherwise.
+
+This ensures it connects without a seam.
+
+&lt;img width="1059" alt="Screenshot 2024-11-12 at 9 34 17 PM"
+src="https://github.com/user-attachments/assets/7ed4a3c7-b508-4fc1-b956-44c4e31faa4d"&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8657869</div>
+                                        <div class="message">Separate Tracks for Components and Phases (#31525)
+
+Previously we were showing Components inside each lane track but that
+meant that as soon as you expanded a lane you couldn't see the other
+line so you couldn't get an overview over how well things were
+scheduled.
+
+This instead moves all the Components into a single top-level track and
+renames the previous one to a "Scheduler" track group.
+
+&lt;img width="1352" alt="Screenshot 2024-11-12 at 8 26 05 PM"
+src="https://github.com/user-attachments/assets/590bc6d3-3540-4ee4-b474-5d733b8d8d8d"&gt;
+
+That way you can get an overview over what React is working on first and
+then right below see which Component is being worked on.
+
+Ideally the "Scheduler" track would be always expanded since each Track
+is always just a single row. Now you have to expand each lane to see the
+labels but then you're wasting a lot of vertical real estate. There's
+currently no option to create this with the Chrome performance.measure
+extensions.
+
+&lt;img width="1277" alt="Screenshot 2024-11-12 at 8 26 16 PM"
+src="https://github.com/user-attachments/assets/4fc39e35-10ec-4452-ad32-c1c2e6b5e1a8"&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b15135b</div>
+                                        <div class="message">[ez] Update useMemoCache return type (#31539)
+
+Use `mixed` instead of `any`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7aa5dda</div>
+                                        <div class="message">Bump RC version to 19.0.0-rc.1 (#31542)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#988e217</div>
+                                        <div class="message">Turn on enableSiblingPrerendering in canary (#31541)
+
+In preparation for the next RC, I set this feature flag to true
+everywhere. I did not delete the feature flag yet, in case there are yet
+more bugs to be discovered.
+
+I also didn't remove the dynamic feature flag from the Meta builds; I'll
+let the Meta folks handle that.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#380f5d6</div>
+                                        <div class="message">Fix sizebot (#31535)
+
+Our CI workflows generally cache `**/node_modules` (note the glob, it
+caches all transitive node_module directories) to speed up startup for
+new jobs that don't change any dependencies. However it seems like one
+of our caches got into a weird state (not sure how it happened) where
+the `build` directory (used in various other scripts as the directory
+for compiled React packages) would contain a `node_modules` directory as
+well. This made sizebot size change messages very big since it would try
+to compare every single file in `build/node_modules`.
+
+The fix is to ensure we always clean the `build` directory before doing
+anything with it. We can also delete that one problematic cache but this
+PR is a little more resilient to other weird behavior with that
+directory.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ac8e61</div>
+                                        <div class="message">Only log component level profiling for components that actually performed work (#31522)
+
+This provides less context but skips a lot of noise.
+
+Previously we were including parent components to provide context about
+what is rendering but this turns out to be:
+
+1) Very expensive due to the overhead of `performance.measure()` while
+profiling.
+2) Unactionable noise in the profile that hurt more than it added in
+real apps with large trees.
+
+This approach instead just add performance.measure calls for each
+component that was marked as PerformedWork (which was used for this
+purpose by React Profiler) or had any Effects.
+
+Not everything gets marked with PerformedWork though. E.g. DOM nodes do
+not but they can have significant render times since creating them takes
+time. We might consider including them if a self-time threshold is met.
+
+Because there is little to no context about the component anymore it
+becomes really essential to get a feature from Chrome DevTools that can
+link to something with more context like React DevTools.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3770c11</div>
+                                        <div class="message">[compiler] repro for reactive ref.current accesses (#31519)
+
+See test fixture
 ---
-updated-dependencies:
-- dependency-name: next
-  dependency-type: direct:production
-...
+[//]: # (BEGIN SAPLING FOOTER)
+Stack created with [Sapling](https://sapling-scm.com). Best reviewed
+with [ReviewStack](https://reviewstack.dev/facebook/react/pull/31519).
+* #31521
+* __-&gt;__ #31519</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9b3841</div>
+                                        <div class="message">Revert "Performance tracks are sorted by start time" hack (#31518)
 
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+This reverts commit d3bf32a95806b6d583ef041b8d83781cd686cfd8 which was
+part of #30983
+
+When you have very deep trees this trick can cause the top levels to
+skew way too much from the real numbers. Creating unbalanced trees.
+
+The bug should have been fixed in Chrome Canary now so that entries
+added later are sorted to go first which should've addressed this issue.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ec26bc</div>
+                                        <div class="message">[compiler] Repro for mutable range edge case (#31479)
+
+See test fixtures</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b836de6</div>
+                                        <div class="message">Fix continuation bug (#31434)
+
+## Overview
+
+In `scheduleTaskForRootDuringMicrotask` we clear `root.callbackNode` if
+the work loop is [suspended waiting on
+data](https://github.com/facebook/react/blob/ac3ca097aeecae8fe3ec7f9b286307a923676518/packages/react-reconciler/src/ReactFiberRootScheduler.js#L338).
+
+But we don't null check `root.callbackNode` before returning a
+continuation in `performWorkOnRootViaSchedulerTask` where
+`scheduleTaskForRootDuringMicrotask` is synchronously called, causing an
+infinite loop when the only thing in the queue is something suspended
+waiting on data.
+
+This essentially restores the behavior from here:
+https://github.com/facebook/react/pull/26328/files#diff-72ff2175ae3569037f0b16802a41b0cda2b2d66bb97f2bda78ed8445ed487b58L1168
+
+Found by investigating the failures for
+https://github.com/facebook/react/pull/31417
+
+## TODO
+- add a test
+
+---------
+
+Co-authored-by: Joe Savona &lt;joesavona@fb.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed15d50</div>
+                                        <div class="message">update flight readme wording (#31466)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e29479</div>
+                                        <div class="message">[devtools] allow non-coercible objects in formatConsoleArgumentsToSingleString (#31444)
+
+## Summary
+
+We have been getting unhandled `TypeError: Cannot convert object to
+primitive value` errors in development that only occur when using
+devtools. I tracked it down to `console.error()` calls coming from
+Apollo Client where one of the arguments is an object without a
+prototype (created with `Object.create(null)`). This causes
+`formatConsoleArgumentsToSingleString()` in React's devtools to error as
+the function does not defend against `String()` throwing an error.
+
+My attempted fix is to introduce a `safeToString` function (naming
+suggestions appreciated) which expects `String()` to throw on certain
+object and in that case falls back to returning `[object Object]`, which
+is what `String({})` would return.
+
+## How did you test this change?
+
+Added a new unit test.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff595de</div>
+                                        <div class="message">[Flight] Add initial readme to react-server package (#31464)
+
+This readme documents React Server Components from `react-server`
+package enough to get an implementer started. It's not comprehensive but
+it's a beginning point and crucially adds documentation for the
+`prerender` API for Flight.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#989af12</div>
+                                        <div class="message">Make prerendering always non-blocking with fix (#31452)
+
+We've previously failed to land this change due to some internal apps
+seeing infinite render loops due to external store state updates during
+render. It turns out that since the `renderWasConcurrent` var was moved
+into the do block, the sync render triggered from the external store
+check was stuck with a `RootSuspended` `exitStatus`. So this is not
+unique to sibling prerendering but more generally related to how we
+handle update to a sync external store during render.
+
+We've tested this build against local repros which now render without
+crashes. We will try to add a unit test to cover the scenario as well.
+
+---------
+
+Co-authored-by: Andrew Clark &lt;git@andrewclark.io&gt;
+Co-authored-by: Rick Hanlon &lt;rickhanlonii@fb.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -97,14 +390,14 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/ai.aiwan.run</span>
+                                        <span class="repo">Debbl/starter-electron-app</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c814a8c</div>
-                                        <div class="message">fix(deps): update dependency next to v15.1.2 [security] (#5)
+                                        <div class="sha">#f03b725</div>
+                                        <div class="message">chore(deps): update dependency @debbl/eslint-config to v3.8.6 (#8)
 
 Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
                                     </div>
@@ -119,12 +412,32 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#5 fix(deps): update dependency next to v15.1.2 [security]</span>
+                                        <span class="issue">#8 chore(deps): update dependency @debbl/eslint-config to v3.8.6</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">Debbl/ai.aiwan.run</span></div>
-                                    <div>1 file changed <span class="code">++81 --61</span></div>
+                                    <div>opened by renovate[bot] in <span class="repo">Debbl/starter-electron-app</span></div>
+                                    <div>1 file changed <span class="code">++1024 --1519</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Debbl/starter-electron-app</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#aabfef5</div>
+                                        <div class="message">Update renovate.json</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
