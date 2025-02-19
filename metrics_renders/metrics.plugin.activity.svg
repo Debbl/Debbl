@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="645" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="345" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,519 +22,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 154 commits in
-                                        <span class="repo">Debbl/facebook-react</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#98418e8</div>
-                                        <div class="message">[Fiber] Suspend the commit while we wait for the previous View Transition to finish (#32002)
-
-Stacked on #31975.
-
-View Transitions cannot handle interruptions in that if you start a new
-one before the previous one has finished, it just stops and then
-restarts. It doesn't seamlessly transition into the new transition.
-
-This is generally considered a bad thing but I actually think it's quite
-good for fire-and-forget animations (gestures is another story). There
-are too many examples of bad animations in fast interactions because the
-scenario wasn't predicted. Like overlapping toasts or stacked layers
-that look bad. The only case interrupts tend to work well is when you do
-a strict reversal of an animation like returning to the page you just
-left or exiting a modal just being opened. However, we're limited by the
-platform even in that regard.
-
-I think one reason interruptions have traditionally been seen as good is
-because it's hard if you have a synchronous framework to not interrupt
-since your application state has already moved on. We don't have that
-limitation since we can suspend commits. We can do all the work to
-prepare for the next commit by rendering while the animation is going
-but then delay the commit until the previous one finishes.
-
-Another technical limitation earlier animation libraries suffered from
-is only have the option to either interrupt or sequence animations since
-it's modeling just one change set. Like showing one toast at a time.
-That's bad. We don't have that limitation because we can interrupt a
-previously suspended commit and start working on a new one instead.
-That's what we do for suspended transitions in general. The net effect
-is that we batch the commits.
-
-Therefore if you get multiple toasts flying in fast, they can animate as
-a batch in together all at once instead of overlapping slightly or being
-staggered. Interruptions (often) bad. Staggered animations bad. Batched
-animations good.
-
-This PR stashes the currently active View Transition with an expando on
-the container that's animating (currently always document). This is
-similar to what we do with event handlers etc. We reason we do this with
-an expando is that if you have multiple Reacts on the same page they
-need to wait for each other. However, one of those might also be the SSR
-runtime. So this lets us wait for the SSR runtime's animations to finish
-before starting client ones. This could really be a more generic name
-since this should ideally be shared across frameworks. It's kind of
-strange that this property doesn't already exist in the DOM given that
-there can only be one. It would be useful to be able to coordinate this
-across libraries.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#38127b2</div>
-                                        <div class="message">[Fiber] Support only View Transitions v2 (#31996)
-
-Stacked on #31975.
-
-We're going to recommend that the primary way you style a View
-Transition is using a View Transition Class (and/or Type). These are
-only available in the View Transitions v2 spec. When they're not
-available it's better to fallback to just not animating instead of
-animating with the wrong styling rules applied.
-
-This is already widely supported in Chrome and Safari 18.2. Safari 18.2
-usage is still somewhat low but it's rolling out quickly as we speak.
-
-A way to detect this is by just passing the object form to
-`startViewTransition` which throws if it's an earlier version. The
-object form is required for `types` but luckily classes rolled out at
-the same time. Therefore we're only indirectly detecting class support.
-
-This means that in practice Safari 18.0 and 18.1 won't animate. We could
-try to only apply the feature detection if you're actually using classes
-or types, but that would create an unfortunate ecosystem burden to try
-to support names. It also leads to flaky effects when only some
-animations work. Better to just disable them all.
-
-Firefox has yet to ship anything. We'll have to look out for how the
-feature detection happens there and if they roll things out in different
-order but if you ship late, you deal with web compat as the ball lies.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a5496b</div>
-                                        <div class="message">[Fiber] Use className on &lt;ViewTransition&gt; to assign view-transition-class (#31999)
-
-Stacked on #31975.
-
-This is the primary way we recommend styling your View Transitions since
-it allows for reusable styling such as a CSS library specializing in
-View Transitions in a way that's composable and without naming
-conflicts. E.g.
-
-```js
-&lt;ViewTransition className="enter-slide-in exit-fade-out update-cross-fade"&gt;
-```
-
-This doesn't change the HTML `class` attribute. It's not a CSS class.
-Instead it assign the `view-transition-class` style prop of the
-underlying DOM node while it's transitioning.
-
-You can also just use `&lt;div style={{viewTransitionClass: ...}}&gt;` on the
-DOM node but it's convenient to control the Transition completely from
-the outside and conceptually we're transitioning the whole fragment. You
-can even make Transition components that just wraps existing components.
-`&lt;RevealTransition&gt;&lt;Component /&gt;&lt;/RevealTransition&gt;` this way.
-
-Since you can also have multiple wrappers for different circumstances it
-allows React's heuristics to use different classes for different
-scenarios. We'll likely add more options like configuring different
-classes for different `types` or scenarios that can't be described by
-CSS alone.
-
-## CSS Modules
-
-```js
-import transitions from './transitions.module.css';
-
-&lt;ViewTransition className={transitions.bounceIn}&gt;...&lt;/ViewTransition&gt;
-```
-
-CSS Modules works well with this strategy because you can have globally
-unique namespaces and define your transitions in the CSS modules as a
-library that you can import. [As seen in the fixture
-here.](https://github.com/facebook/react/commit/8b91b37bb8b4add5f3f8be5ef8f49bb23966b13b#diff-b4d9854171ffdac4d2c01be92a5eff4f8e9e761e6af953094f99ca243b054a85R11)
-
-I did notice an unfortunate bug in how CSS Modules (at least in Webpack)
-generates class names. Sometimes the `+` character is used in the hash
-of the class name which is not valid for `view-transition-class` and so
-it breaks. I had to rename my class names until the hash yielded
-something different to work around it. Ideally that bug gets fixed soon.
-
-## className, rly?
-
-`className` isn't exactly the most loved property name, however, I'm
-using `className` here too for consistency. Even though in this case
-there's no direct equivalent DOM property name. The CSS property is
-named `viewTransitionClass`, but the "viewTransition" prefix is implied
-by the Component it is on in this case. For most people the fact that
-this is actually a different namespace than other CSS classes doesn't
-matter. You'll most just use a CSS library anyway and conceptually
-you're just assigning classes the same way as `className` on a DOM node.
-
-But if we ever rename the `class` prop then we can do that for this one
-as well.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4d122f</div>
-                                        <div class="message">Add &lt;ViewTransition&gt; Component (#31975)
-
-This will provide the opt-in for using [View
-Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
-in React.
-
-View Transitions only trigger for async updates like `startTransition`,
-`useDeferredValue`, Actions or `&lt;Suspense&gt;` revealing from fallback to
-content. Synchronous updates provide an opt-out but also guarantee that
-they commit immediately which View Transitions can't.
-
-There's no need to opt-in to View Transitions at the "cause" side like
-event handlers or actions. They don't know what UI will change and
-whether that has an animated transition described.
-
-Conceptually the `&lt;ViewTransition&gt;` component is like a DOM fragment
-that transitions its children in its own isolate/snapshot. The API works
-by wrapping a DOM node or inner component:
-
-```js
-import {ViewTransition} from 'react';
-
-&lt;ViewTransition&gt;&lt;Component /&gt;&lt;/ViewTransition&gt;
-```
-
-The default is `name="auto"` which will automatically assign a
-`view-transition-name` to the inner DOM node. That way you can add a
-View Transition to a Component without controlling its DOM nodes styling
-otherwise.
-
-A difference between this and the browser's built-in
-`view-transition-name: auto` is that switching the DOM nodes within the
-`&lt;ViewTransition&gt;` component preserves the same name so this example
-cross-fades between the DOM nodes instead of causing an exit and enter:
-
-```js
-&lt;ViewTransition&gt;{condition ? &lt;ComponentA /&gt; : &lt;ComponentB /&gt;}&lt;/ViewTransition&gt;
-```
-
-This becomes especially useful with `&lt;Suspense&gt;` as this example
-cross-fades between Skeleton and Content:
-
-```js
-&lt;ViewTransition&gt;
-  &lt;Suspense fallback={&lt;Skeleton /&gt;}&gt;
-    &lt;Content /&gt;
-  &lt;/Suspense&gt;
-&lt;/ViewTransition&gt;
-```
-
-Where as this example triggers an exit of the Skeleton and an enter of
-the Content:
-
-```js
-&lt;Suspense fallback={&lt;ViewTransition&gt;&lt;Skeleton /&gt;&lt;/ViewTransition&gt;}&gt;
-  &lt;ViewTransition&gt;&lt;Content /&gt;&lt;/ViewTransition&gt;
-&lt;/Suspense&gt;
-```
-
-Managing instances and keys becomes extra important.
-
-You can also specify an explicit `name` property for example for
-animating the same conceptual item from one page onto another. However,
-best practices is to property namespace these since they can easily
-collide. It's also useful to add an `id` to it if available.
-
-```js
-&lt;ViewTransition name="my-shared-view"&gt;
-```
-
-The model in general is the same as plain `view-transition-name` except
-React manages a set of heuristics for when to apply it. A problem with
-the naive View Transitions model is that it overly opts in every
-boundary that *might* transition into transitioning. This is leads to
-unfortunate effects like things floating around when unrelated updates
-happen. This leads the whole document to animate which means that
-nothing is clickable in the meantime. It makes it not useful for smaller
-and more local transitions. Best practice is to add
-`view-transition-name` only right before you're about to need to animate
-the thing. This is tricky to manage globally on complex apps and is not
-compositional. Instead we let React manage when a `&lt;ViewTransition&gt;`
-"activates" and add/remove the `view-transition-name`. This is also when
-React calls `startViewTransition` behind the scenes while it mutates the
-DOM.
-
-I've come up with a number of heuristics that I think will make a lot
-easier to coordinate this. The principle is that only if something that
-updates that particular boundary do we activate it. I hope that one day
-maybe browsers will have something like these built-in and we can remove
-our implementation.
-
-A `&lt;ViewTransition&gt;` only activates if:
-
-- If a mounted Component renders a `&lt;ViewTransition&gt;` within it outside
-the first DOM node, and it is within the viewport, then that
-ViewTransition activates as an "enter" animation. This avoids inner
-"enter" animations trigger when the parent mounts.
-- If an unmounted Component had a `&lt;ViewTransition&gt;` within it outside
-the first DOM node, and it was within the viewport, then that
-ViewTransition activates as an "exit" animation. This avoids inner
-"exit" animations triggering when the parent unmounts.
-- If an explicitly named `&lt;ViewTransition name="..."&gt;` is deep within an
-unmounted tree and one with the same name appears in a mounted tree at
-the same time, then both are activated as a pair, but only if they're
-both in the viewport. This avoids these triggering "enter" or "exit"
-animations when going between parents that don't have a pair.
-- If an already mounted `&lt;ViewTransition&gt;` is visible and a DOM
-mutation, that might affect how it's painted, happens within its
-children but outside any nested `&lt;ViewTransition&gt;`. This allows it to
-"cross-fade" between its updates.
-- If an already mounted `&lt;ViewTransition&gt;` resizes or moves as the
-result of direct DOM nodes siblings changing or moving around. This
-allows insertion, deletion and reorders into a list to animate all
-children. It is only within one DOM node though, to avoid unrelated
-changes in the parent to trigger this. If an item is outside the
-viewport before and after, then it's skipped to avoid things flying
-across the screen.
-- If a `&lt;ViewTransition&gt;` boundary changes size, due to a DOM mutation
-within it, then the parent activates (or the root document if there are
-no more parents). This ensures that the container can cross-fade to
-avoid abrupt relayout. This can be avoided by using absolutely
-positioned children. When this can avoid bubbling to the root document,
-whatever is not animating is still responsive to clicks during the
-transition.
-
-Conceptually each DOM node has its own default that activates the parent
-`&lt;ViewTransition&gt;` or no transition if the parent is the root. That
-means that if you add a DOM node like `&lt;div&gt;&lt;ViewTransition&gt;&lt;Component
-/&gt;&lt;/ViewTransition&gt;&lt;/div&gt;` this won't trigger an "enter" animation since
-it was the div that was added, not the ViewTransition. Instead, it might
-cause a cross-fade of the parent ViewTransition or no transition if it
-had no parent. This ensures that only explicit boundaries perform coarse
-animations instead of every single node which is really the benefit of
-the View Transitions model. This ends up working out well for simple
-cases like switching between two pages immediately while transitioning
-one floating item that appears on both pages. Because only the floating
-item transitions by default.
-
-Note that it's possible to add manual `view-transition-name` with CSS or
-`style={{ viewTransitionName: 'auto' }}` that always transitions as long
-as something else has a `&lt;ViewTransition&gt;` that activates. For example a
-`&lt;ViewTransition&gt;` can wrap a whole page for a cross-fade but inside of
-it an explicit name can be added to something to ensure it animates as a
-move when something relates else changes its layout. Instead of just
-cross-fading it along with the Page which would be the default.
-
-There's more PRs coming with some optimizations, fixes and expanded
-APIs. This first PR explores the above core heuristic.
-
----------
-
-Co-authored-by: Sebastian "Sebbie" Silbermann &lt;silbermann.sebastian@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e30c669</div>
-                                        <div class="message">[Fiber] Delete isMounted internals (#31966)
-
-The public API has been deleted a long time ago so this should be unused
-unless it's used by hacks. It should be replaced with an
-effect/lifecycle that manually tracks this if you need it.
-
-The problem with this API is how the timing implemented because it
-requires Placement/Hydration flags to be cleared too early. In fact,
-that's why we also have a separate PlacementDEV flag that works
-differently.
-
-
-https://github.com/facebook/react/blob/main/packages/react-reconciler/src/ReactFiberCommitWork.js#L2157-L2165
-
-We should be able to remove this code now.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#379089d</div>
-                                        <div class="message">[flags] remove enableDeferRootSchedulingToMicrotask (#32008)
-
-Wait for me to merge, but this has landed everywhere and is ready to
-remove.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4268726</div>
-                                        <div class="message">chore[react-devtools-shell]: disable warnings in dev server overlay (#32005)
-
-Disables warnings Webpack DevServer overlay, which is used by React
-DevTools shell.
-
-We are testing against `react-native-web` in this shell, and it installs
-older versions of the `react-dom` package, and there are some expected
-discrepancies between it and `react-dom` from source.
-
-Before:
-![Screenshot 2025-01-07 at 12 50
-21](https://github.com/user-attachments/assets/ba7d435e-3265-4446-9994-6a77c6d3d4ef)
-
-After:
-![Screenshot 2025-01-07 at 12 49
-47](https://github.com/user-attachments/assets/cb45d07c-f561-496a-b76f-bdce3154ab88)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a160102</div>
-                                        <div class="message">[tests] Remove to*Dev matchers (#31989)
-
-Based off: https://github.com/facebook/react/pull/31988
-
-&lt;img width="741" alt="Screenshot 2025-01-06 at 12 52 08 AM"
-src="https://github.com/user-attachments/assets/29b159ca-66d4-441f-8817-dd2db66d1edb"
-/&gt;
-
-it is done</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f892dab</div>
-                                        <div class="message">[ci] Make gh workflow names consistent (#32010)
-
-Super minor change to keep our naming scheme consistent for gh workflows</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6efbc08</div>
-                                        <div class="message">[playground] Use default compiler config (#32009)
-
-The playground's compilation mode is currently set to 'all' along with
-reporting all errors.
-
-This tends to be misleading since people usually expect a 1:1 match
-between how the playground works with what the compiler does in their
-codebase, eg https://github.com/reactwg/react-compiler/discussions/51.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b40208</div>
-                                        <div class="message">Fix notify target, add lines (#32006)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3314162</div>
-                                        <div class="message">bot for pr notifications (#31985)
-
-Going to take some testing to get this right</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0c893f</div>
-                                        <div class="message">[assert helpers] ServerIntegration tests (#31988)
-
-Based off: https://github.com/facebook/react/pull/31986</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b86533</div>
-                                        <div class="message">[assert helpers] react-reconciler (#31986)
-
-Based off: https://github.com/facebook/react/pull/31984</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83be48b</div>
-                                        <div class="message">[tests] fix hidden use() warnings (#31984)
-
-`spyOnDev` is such a footgun.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#defffdb</div>
-                                        <div class="message">[Fiber] Don't work on scheduled tasks while we're in an async commit but flush it eagerly if we're sync (#31987)
-
-This is a follow up to #31930 and a prerequisite for #31975.
-
-With View Transitions, the commit phase becomes async which means that
-other work can sneak in between. We need to be resilient to that.
-
-This PR first refactors the flushMutationEffects and flushLayoutEffects
-to use module scope variables to track its arguments so we can defer
-them. It shares these with how we were already doing it for
-flushPendingEffects.
-
-We also track how far along the commit phase we are so we know what we
-have left to flush.
-
-Then callers of flushPassiveEffects become flushPendingEffects. That
-helper synchronously flushes any remaining phases we've yet to commit.
-That ensure that things are at least consistent if that happens.
-
-Finally, when we are using a scheduled task, we don't do any work. This
-ensures that we're not flushing any work too early if we could've
-deferred it. This still ensures that we always do flush it before
-starting any new work on any root so new roots observe the committed
-state.
-
-There are some unfortunate effects that could happen from allowing
-things to flush eagerly. Such as if a flushSync sneaks in before
-startViewTransition, it'll skip the animation. If it's during a
-suspensey font it'll start the transition before the font has loaded
-which might be better than breaking flushSync. It'll also potentially
-flush passive effects inside the startViewTransition which should
-typically be ok.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ce77d5</div>
-                                        <div class="message">[playground:ci] Don't install compiler deps twice (#31995)
-
-The compiler playground already installs the compiler's dependencies in
-a preinstall step. No need to repeat it in CI.
-
----
-[//]: # (BEGIN SAPLING FOOTER)
-Stack created with [Sapling](https://sapling-scm.com). Best reviewed
-with [ReviewStack](https://reviewstack.dev/facebook/react/pull/31995).
-* __-&gt;__ #31995
-* #31994</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11df522</div>
-                                        <div class="message">[rcr] Generate ts defs (#31994)
-
-This was accidentally removed in the esbuild transition.
-
----
-[//]: # (BEGIN SAPLING FOOTER)
-Stack created with [Sapling](https://sapling-scm.com). Best reviewed
-with [ReviewStack](https://reviewstack.dev/facebook/react/pull/31994).
-* #31995
-* __-&gt;__ #31994</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9627d71</div>
-                                        <div class="message">fix: `react-compiler-runtime` should be cjs (#31993)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#301a18a</div>
-                                        <div class="message">react-hooks/rules-of-hooks: detect issues in class properties (#31823)
-
-Co-authored-by: Elizabeth Craig &lt;elcraig@microsoft.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">scottrippey/react-use-event-hook</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">Debbl/aiwan.run</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#73bf661</div>
-                                        <div class="message">chore(deps): update dependency @types/node to v22.13.4 (#23)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                        <div class="sha">#f1c3cd2</div>
+                                        <div class="message">fix: update deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54263a6</div>
+                                        <div class="message">chore: change repo name to workspace</div>
                                     </div>
                                 </div>
                             </section>
@@ -543,16 +43,15 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Merged
-                                        <span class="issue">#23 chore(deps): update dependency @types/node to v22.13.4</span>
+                                        Created new
+                      tag
+                                        <span class="code">v0.4.1</span>
+                                        in
+                                        <span class="repo">Debbl/ahooks</span>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">Debbl/aiwan.run</span></div>
-                                    <div>1 file changed <span class="code">++107 --108</span></div>
                                 </div>
                             </section>
                         </div>
@@ -564,16 +63,54 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/starter-react</span>
+                                        <span class="repo">Debbl/ahooks</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#57a0009</div>
-                                        <div class="message">chore(deps): update all-dependencies (#70)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                        <div class="sha">#33e72e5</div>
+                                        <div class="message">chore: release v0.4.1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Debbl/ahooks</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#69bd304</div>
+                                        <div class="message">fix: export useEffectEvent</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Debbl/ahooks</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#854ff09</div>
+                                        <div class="message">chore: update hooks list</div>
                                     </div>
                                 </div>
                             </section>
