@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">dbeaver/dbeaver</span>
+                                        <span class="repo">prisma/prisma</span>
                                     </div>
                                 </div>
                             </section>
@@ -36,14 +36,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/aiwan.run</span>
+                                        <span class="repo">Debbl/starter-react</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#431dcd8</div>
-                                        <div class="message">chore(deps): update dependency @types/node to v22.13.5 (#26)
+                                        <div class="sha">#2eddbeb</div>
+                                        <div class="message">chore(deps): update all-dependencies (#71)
 
 Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
                                     </div>
@@ -58,12 +58,12 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#26 chore(deps): update dependency @types/node to v22.13.5</span>
+                                        <span class="issue">#71 chore(deps): update all-dependencies</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">Debbl/aiwan.run</span></div>
-                                    <div>1 file changed <span class="code">++107 --108</span></div>
+                                    <div>opened by renovate[bot] in <span class="repo">Debbl/starter-react</span></div>
+                                    <div>1 file changed <span class="code">++397 --405</span></div>
                                 </div>
                             </section>
                         </div>
@@ -75,14 +75,14 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/starter-electron-app</span>
+                                        <span class="repo">Debbl/ahooks</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#41e0579</div>
-                                        <div class="message">chore(deps): update all-dependencies (#21)
+                                        <div class="sha">#f96bb2f</div>
+                                        <div class="message">chore(deps): update dependency vitest to v3.0.7 (#22)
 
 Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
                                     </div>
@@ -97,12 +97,12 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#21 chore(deps): update all-dependencies</span>
+                                        <span class="issue">#22 chore(deps): update dependency vitest to v3.0.7</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">Debbl/starter-electron-app</span></div>
-                                    <div>2 files changed <span class="code">++861 --957</span></div>
+                                    <div>opened by renovate[bot] in <span class="repo">Debbl/ahooks</span></div>
+                                    <div>1 file changed <span class="code">++322 --295</span></div>
                                 </div>
                             </section>
                         </div>
