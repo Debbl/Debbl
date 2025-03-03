@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="645" class="">
     <defs>
         <style/>
     </defs>
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/aiwan.run</span>
+                                        <span class="repo">Debbl/eslint-config</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#50b8eb6</div>
-                                        <div class="message">docs: update mac-init-setting</div>
+                                        <div class="sha">#40cedb2</div>
+                                        <div class="message">chore: run eslint</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/dotfiles</span>
+                                        <span class="repo">Debbl/eslint-config</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5cc971a</div>
-                                        <div class="message">chore: update config</div>
+                                        <div class="sha">#c19a4e9</div>
+                                        <div class="message">chore: script</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,30 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Debbl/aiwan.run</span>
+                                        <span class="repo">Debbl/anti-chaos-eslint-config</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feat/eslint-init</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fe309ec</div>
-                                        <div class="message">chore: add umami event</div>
+                                        <div class="sha">#5a55c24</div>
+                                        <div class="message">refactor: eslint v9</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">feat/eslint-init</span>
+                                        in
+                                        <span class="repo">Debbl/anti-chaos-eslint-config</span>
                                     </div>
                                 </div>
                             </section>
@@ -82,37 +98,93 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Debbl/aiwan.run</span>
+                                        Pushed 29 commits in
+                                        <span class="repo">Debbl/antfu-eslint-config</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4beaa94</div>
-                                        <div class="message">chore: style</div>
+                                        <div class="sha">#0d41ec6</div>
+                                        <div class="message">chore: release v4.2.1</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Debbl/aiwan.run</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1604036</div>
-                                        <div class="message">Revert "feat: use experimental viewTransition"
+                                        <div class="sha">#ac1171c</div>
+                                        <div class="message">chore: update deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#998887c</div>
+                                        <div class="message">feat: replace picocolors with ansis (#665)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c9a36bc</div>
+                                        <div class="message">chore: release v4.2.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41c21a1</div>
+                                        <div class="message">feat: upgrade `@stylistic` to v4.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f328f3</div>
+                                        <div class="message">chore: bump node version on netlify (#660)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f26ad86</div>
+                                        <div class="message">chore: release v4.1.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee19771</div>
+                                        <div class="message">chore: update deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a2a48b</div>
+                                        <div class="message">chore: release v4.1.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22bf2bd</div>
+                                        <div class="message">feat: add `fixStyle` to `ts/consistent-type-imports`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2061adb</div>
+                                        <div class="message">chore: release v4.0.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24ad953</div>
+                                        <div class="message">feat: update deps and snapshot</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95f0918</div>
+                                        <div class="message">chore: release v4.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#216fa10</div>
+                                        <div class="message">feat!: drop CJS build
 
-This reverts commit 9454a76626e09ebcfaf49901116f008987c13ce1.</div>
+If you are still doing `require('@antfu/eslint-config')`, change your config name to end with `.mjs` and migrate to import.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e680a95</div>
+                                        <div class="message">chore: update deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bff332</div>
+                                        <div class="message">chore: release v3.16.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a98ccc8</div>
+                                        <div class="message">feat: change editor rules from disable to non-fixable</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3a1022</div>
+                                        <div class="message">chore: release v3.15.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12dd5b5</div>
+                                        <div class="message">feat: turn off `prefer-const` in editor</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c2867b</div>
+                                        <div class="message">chore: update deps</div>
                                     </div>
                                 </div>
                             </section>
