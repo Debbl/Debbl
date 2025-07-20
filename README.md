@@ -2,6 +2,7 @@
   <samp>
     <a href="https://aiwan.run">me</a> .
     <a href="https://blog.aiwan.run">blog</a> .
+    <a href="https://x.com/Debbl66">X</a> .
     <a href="https://v.aiwan.run">v</a> .
     <a href="https://tools.aiwan.run">tools</a> .
     <a href="https://game.aiwan.run">game</a> .
