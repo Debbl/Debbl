@@ -27,10 +27,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feat/use-kie-provider</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9bbbd48</div>
-                                        <div class="message">feat: all in zod</div>
+                                        <div class="sha">#af98864</div>
+                                        <div class="message">feat: show success image</div>
                                     </div>
                                 </div>
                             </section>
@@ -47,10 +47,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feat/use-kie-provider</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7813034</div>
-                                        <div class="message">chore: db</div>
+                                        <div class="sha">#43cf6e9</div>
+                                        <div class="message">chore: add zod lint</div>
                                     </div>
                                 </div>
                             </section>
@@ -67,10 +67,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feat/use-kie-provider</span></div>
                                     <div class="commit">
-                                        <div class="sha">#73816f9</div>
-                                        <div class="message">fix: update when done</div>
+                                        <div class="sha">#ca58f7e</div>
+                                        <div class="message">chore: zod import</div>
                                     </div>
                                 </div>
                             </section>
@@ -87,10 +87,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feat/use-kie-provider</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ebc3a89</div>
-                                        <div class="message">fix: async run</div>
+                                        <div class="sha">#e1a5d7b</div>
+                                        <div class="message">feat: use db json</div>
                                     </div>
                                 </div>
                             </section>
@@ -107,10 +107,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feat/use-kie-provider</span></div>
                                     <div class="commit">
-                                        <div class="sha">#81228cc</div>
-                                        <div class="message">feat: use kie provider (#6)</div>
+                                        <div class="sha">#a8316fe</div>
+                                        <div class="message">feat: update db</div>
                                     </div>
                                 </div>
                             </section>
