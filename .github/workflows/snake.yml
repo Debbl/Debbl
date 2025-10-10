@@ -13,7 +13,7 @@ jobs:
 
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk@main
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -23,6 +23,6 @@ jobs:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit change
-        uses: EndBug/add-and-commit@latest
+        uses: EndBug/add-and-commit@v9
         with:
           message: "generte snake"
