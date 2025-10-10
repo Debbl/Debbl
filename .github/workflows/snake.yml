@@ -11,6 +11,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
+      - name: Pull latest changes before push
+        run: git pull origin main --rebase
+
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
